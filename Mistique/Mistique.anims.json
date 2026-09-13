@@ -2,52 +2,12 @@
  "id": "13501",
  "clips": [
   {
-   "name": "13500010_BigHeadGhost_Atk_1",
-   "file": "Mistique/Mistique_anims/13500010_BigHeadGhost_Atk_1.glb",
-   "face": false,
-   "duration": 0.6667,
-   "loop": true,
-   "bytes": 2132
-  },
-  {
-   "name": "13500010_BigHeadGhost_Atk_2",
-   "file": "Mistique/Mistique_anims/13500010_BigHeadGhost_Atk_2.glb",
-   "face": false,
-   "duration": 0.6667,
-   "loop": false,
-   "bytes": 1732
-  },
-  {
-   "name": "13500010_BigHeadGhost_Atk_3",
-   "file": "Mistique/Mistique_anims/13500010_BigHeadGhost_Atk_3.glb",
-   "face": false,
-   "duration": 1.1667,
-   "loop": false,
-   "bytes": 764
-  },
-  {
-   "name": "Ultra_Pet",
-   "file": "Mistique/Mistique_anims/Ultra_Pet.glb",
-   "face": false,
-   "duration": 4.1667,
-   "loop": false,
-   "bytes": 3300
-  },
-  {
-   "name": "Ultra_Pet_H6",
-   "file": "Mistique/Mistique_anims/Ultra_Pet_H6.glb",
-   "face": false,
-   "duration": 4.7333,
-   "loop": false,
-   "bytes": 2632
-  },
-  {
    "name": "Attack1",
    "file": "Mistique/Mistique_anims/Attack1.glb",
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 145448
+   "bytes": 492864
   },
   {
    "name": "Attack2",
@@ -55,7 +15,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 139340
+   "bytes": 458248
   },
   {
    "name": "Attack3",
@@ -63,7 +23,7 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 192972
+   "bytes": 559904
   },
   {
    "name": "Attack4",
@@ -71,7 +31,7 @@
    "face": false,
    "duration": 2.8,
    "loop": false,
-   "bytes": 193528
+   "bytes": 569976
   },
   {
    "name": "Daze",
@@ -79,7 +39,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 88832
+   "bytes": 331680
   },
   {
    "name": "Die",
@@ -87,7 +47,7 @@
    "face": false,
    "duration": 2.3,
    "loop": false,
-   "bytes": 208448
+   "bytes": 574632
   },
   {
    "name": "Dodge",
@@ -95,7 +55,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 136352
+   "bytes": 451348
   },
   {
    "name": "HurtA1",
@@ -103,7 +63,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 128904
+   "bytes": 425724
   },
   {
    "name": "HurtA2",
@@ -111,7 +71,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 140868
+   "bytes": 440372
   },
   {
    "name": "HurtB",
@@ -119,7 +79,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 137080
+   "bytes": 456388
   },
   {
    "name": "Idle",
@@ -127,7 +87,7 @@
    "face": false,
    "duration": 1.5333,
    "loop": true,
-   "bytes": 76352
+   "bytes": 319096
   },
   {
    "name": "Main_Skill_Call",
@@ -135,7 +95,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 256072
+   "bytes": 630176
   },
   {
    "name": "Out01",
@@ -143,7 +103,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 123060
+   "bytes": 403732
   },
   {
    "name": "Ready",
@@ -151,7 +111,7 @@
    "face": true,
    "duration": 6.2333,
    "loop": false,
-   "bytes": 358192,
+   "bytes": 454276,
    "hide": [
     "Camera"
    ]
@@ -162,7 +122,7 @@
    "face": true,
    "duration": 3.2,
    "loop": true,
-   "bytes": 81884,
+   "bytes": 179732,
    "hide": [
     "Camera"
    ]
@@ -173,7 +133,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 111208
+   "bytes": 386784
   },
   {
    "name": "Rush",
@@ -181,7 +141,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 153784
+   "bytes": 436416
   },
   {
    "name": "RushStop",
@@ -189,7 +149,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 144860
+   "bytes": 469812
   },
   {
    "name": "Support_Skill_GhostDoor",
@@ -197,7 +157,7 @@
    "face": false,
    "duration": 1.9333,
    "loop": false,
-   "bytes": 255480
+   "bytes": 672488
   },
   {
    "name": "Timeline",
@@ -205,23 +165,7 @@
    "face": true,
    "duration": 3.3667,
    "loop": false,
-   "bytes": 352100
-  },
-  {
-   "name": "Timeline_Pet01",
-   "file": "Mistique/Mistique_anims/Timeline_Pet01.glb",
-   "face": false,
-   "duration": 3.3667,
-   "loop": false,
-   "bytes": 748
-  },
-  {
-   "name": "Timeline_Pet02",
-   "file": "Mistique/Mistique_anims/Timeline_Pet02.glb",
-   "face": false,
-   "duration": 3.3667,
-   "loop": false,
-   "bytes": 748
+   "bytes": 443680
   },
   {
    "name": "Ultra_NoTL",
@@ -229,7 +173,7 @@
    "face": false,
    "duration": 4.0667,
    "loop": false,
-   "bytes": 375684
+   "bytes": 909116
   },
   {
    "name": "Ultra_TL",
@@ -237,7 +181,7 @@
    "face": false,
    "duration": 2.4333,
    "loop": false,
-   "bytes": 215316
+   "bytes": 584352
   },
   {
    "name": "Victory",
@@ -245,7 +189,7 @@
    "face": true,
    "duration": 4.1833,
    "loop": false,
-   "bytes": 161656,
+   "bytes": 260712,
    "show": [
     "Camera"
    ]
@@ -256,7 +200,7 @@
    "face": true,
    "duration": 2.5333,
    "loop": true,
-   "bytes": 84536
+   "bytes": 183576
   },
   {
    "name": "Walk",
@@ -264,7 +208,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 101716
+   "bytes": 351256
   },
   {
    "name": "Take 001",
@@ -272,7 +216,7 @@
    "face": false,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 133840
+   "bytes": 181092
   }
  ]
 }

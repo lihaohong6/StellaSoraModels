@@ -7,7 +7,7 @@
    "face": true,
    "duration": 6.6667,
    "loop": false,
-   "bytes": 282004,
+   "bytes": 379720,
    "show": [
     "face_06sp",
     "face_10sp",
@@ -23,7 +23,7 @@
    "face": true,
    "duration": 3.6667,
    "loop": true,
-   "bytes": 94464,
+   "bytes": 195524,
    "show": [
     "face_06sp",
     "face_10sp",
@@ -39,7 +39,7 @@
    "face": true,
    "duration": 5.65,
    "loop": false,
-   "bytes": 256040,
+   "bytes": 360532,
    "show": [
     "face_06sp",
     "face_10sp",
@@ -55,7 +55,7 @@
    "face": true,
    "duration": 2.7667,
    "loop": true,
-   "bytes": 87240
+   "bytes": 190292
   },
   {
    "name": "timeline",
@@ -63,7 +63,7 @@
    "face": true,
    "duration": 5.2667,
    "loop": false,
-   "bytes": 306800,
+   "bytes": 402268,
    "show": [
     "face_05sp",
     "face_06sp",

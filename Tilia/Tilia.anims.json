@@ -7,7 +7,7 @@
    "face": true,
    "duration": 4.1833,
    "loop": false,
-   "bytes": 166564,
+   "bytes": 215948,
    "hide": [
     "star"
    ]
@@ -18,7 +18,7 @@
    "face": false,
    "duration": 1.2667,
    "loop": false,
-   "bytes": 82576
+   "bytes": 224640
   },
   {
    "name": "Attack_2",
@@ -26,7 +26,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 60592
+   "bytes": 181280
   },
   {
    "name": "Attack_3",
@@ -34,7 +34,7 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 82740
+   "bytes": 219536
   },
   {
    "name": "Attack_4",
@@ -42,7 +42,7 @@
    "face": false,
    "duration": 1.2,
    "loop": false,
-   "bytes": 71440
+   "bytes": 206008
   },
   {
    "name": "Dazed",
@@ -50,7 +50,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 40824
+   "bytes": 140920
   },
   {
    "name": "Die",
@@ -58,7 +58,7 @@
    "face": false,
    "duration": 1.9667,
    "loop": false,
-   "bytes": 92992
+   "bytes": 208964
   },
   {
    "name": "Dodge",
@@ -66,7 +66,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 68572
+   "bytes": 186020
   },
   {
    "name": "HurtA1",
@@ -74,7 +74,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 46776
+   "bytes": 159004
   },
   {
    "name": "HurtA2",
@@ -82,7 +82,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 51480
+   "bytes": 168140
   },
   {
    "name": "HurtB",
@@ -90,7 +90,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 54388
+   "bytes": 169904
   },
   {
    "name": "Idle",
@@ -98,7 +98,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 41568
+   "bytes": 143820
   },
   {
    "name": "Main_Skill_CounterAttack",
@@ -106,7 +106,7 @@
    "face": false,
    "duration": 1.5667,
    "loop": false,
-   "bytes": 97440
+   "bytes": 264852
   },
   {
    "name": "Main_Skill_P01_CounterAttack_Strengthen",
@@ -114,7 +114,7 @@
    "face": false,
    "duration": 1.9,
    "loop": false,
-   "bytes": 127944
+   "bytes": 308328
   },
   {
    "name": "Main_Skill_P02_CounterAttack_1_Loop_Strengthen",
@@ -122,7 +122,7 @@
    "face": false,
    "duration": 0.4667,
    "loop": true,
-   "bytes": 41668
+   "bytes": 177628
   },
   {
    "name": "Main_Skill_ShieldCounter_1_Loop",
@@ -130,7 +130,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 39296
+   "bytes": 145264
   },
   {
    "name": "Main_Skill_ShieldCounter_1_Start",
@@ -138,7 +138,7 @@
    "face": false,
    "duration": 0.2333,
    "loop": false,
-   "bytes": 38716
+   "bytes": 122676
   },
   {
    "name": "Out01",
@@ -146,7 +146,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 69740
+   "bytes": 201936
   },
   {
    "name": "Ready",
@@ -154,7 +154,7 @@
    "face": true,
    "duration": 4.4833,
    "loop": false,
-   "bytes": 187892
+   "bytes": 249144
   },
   {
    "name": "ReadyLoop",
@@ -162,7 +162,7 @@
    "face": true,
    "duration": 3.0,
    "loop": true,
-   "bytes": 50368
+   "bytes": 111656
   },
   {
    "name": "Run",
@@ -170,7 +170,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 65908
+   "bytes": 185416
   },
   {
    "name": "Rush",
@@ -178,7 +178,7 @@
    "face": false,
    "duration": 0.5333,
    "loop": true,
-   "bytes": 67420
+   "bytes": 182744
   },
   {
    "name": "RushStop",
@@ -186,7 +186,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 60672
+   "bytes": 162316
   },
   {
    "name": "Support_Skill_ThrowShield",
@@ -194,7 +194,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 86240
+   "bytes": 233824
   },
   {
    "name": "Ultra_NoTL",
@@ -202,7 +202,7 @@
    "face": false,
    "duration": 3.4333,
    "loop": false,
-   "bytes": 114112
+   "bytes": 310132
   },
   {
    "name": "Ultra_TL",
@@ -210,7 +210,7 @@
    "face": false,
    "duration": 1.85,
    "loop": false,
-   "bytes": 67932,
+   "bytes": 205268,
    "hide": [
     "star"
    ]
@@ -221,7 +221,7 @@
    "face": false,
    "duration": 2.6667,
    "loop": false,
-   "bytes": 70128
+   "bytes": 112576
   },
   {
    "name": "VictoryLoop",
@@ -229,7 +229,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 49204
+   "bytes": 88828
   },
   {
    "name": "Walk",
@@ -237,7 +237,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 52152
+   "bytes": 181080
   },
   {
    "name": "WalkBackward",
@@ -245,7 +245,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 47240
+   "bytes": 155424
   },
   {
    "name": "WalkForward",
@@ -253,7 +253,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 47328
+   "bytes": 155936
   },
   {
    "name": "WalkLeft",
@@ -261,7 +261,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 47288
+   "bytes": 153440
   },
   {
    "name": "WalkRight",
@@ -269,7 +269,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 46908
+   "bytes": 148984
   }
  ]
 }

@@ -7,7 +7,7 @@
    "face": false,
    "duration": 9.4,
    "loop": false,
-   "bytes": 112884,
+   "bytes": 128400,
    "hide": [
     "star"
    ]
@@ -18,7 +18,7 @@
    "face": true,
    "duration": 4.3,
    "loop": false,
-   "bytes": 156272
+   "bytes": 203156
   },
   {
    "name": "Attack",
@@ -26,7 +26,7 @@
    "face": false,
    "duration": 6.5,
    "loop": false,
-   "bytes": 327232
+   "bytes": 484140
   },
   {
    "name": "Attack_1",
@@ -34,7 +34,7 @@
    "face": false,
    "duration": 1.0833,
    "loop": false,
-   "bytes": 88308
+   "bytes": 175636
   },
   {
    "name": "Attack_2",
@@ -42,7 +42,7 @@
    "face": false,
    "duration": 1.9167,
    "loop": false,
-   "bytes": 112784
+   "bytes": 206816
   },
   {
    "name": "Attack_3",
@@ -50,7 +50,7 @@
    "face": false,
    "duration": 2.2833,
    "loop": false,
-   "bytes": 198228
+   "bytes": 319288
   },
   {
    "name": "Attack_4",
@@ -58,7 +58,7 @@
    "face": false,
    "duration": 4.0167,
    "loop": false,
-   "bytes": 141632
+   "bytes": 246328
   },
   {
    "name": "Attack_JianQi",
@@ -66,7 +66,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 91312
+   "bytes": 180072
   },
   {
    "name": "Attack_New_1",
@@ -74,7 +74,7 @@
    "face": false,
    "duration": 0.2833,
    "loop": false,
-   "bytes": 64856
+   "bytes": 142620
   },
   {
    "name": "Attack_New_2",
@@ -82,7 +82,7 @@
    "face": false,
    "duration": 0.8833,
    "loop": false,
-   "bytes": 85320
+   "bytes": 169192
   },
   {
    "name": "Attack_New_3",
@@ -90,7 +90,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 165008
+   "bytes": 272840
   },
   {
    "name": "Attack_New_4",
@@ -98,7 +98,7 @@
    "face": false,
    "duration": 4.0,
    "loop": false,
-   "bytes": 125776
+   "bytes": 226176
   },
   {
    "name": "Dazed",
@@ -106,7 +106,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 51012
+   "bytes": 123236
   },
   {
    "name": "Die",
@@ -114,7 +114,7 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 116476
+   "bytes": 212060
   },
   {
    "name": "Dodge",
@@ -122,7 +122,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 75672
+   "bytes": 162868
   },
   {
    "name": "HurtA1",
@@ -130,7 +130,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 66068
+   "bytes": 150680
   },
   {
    "name": "HurtA2",
@@ -138,7 +138,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 64428
+   "bytes": 148224
   },
   {
    "name": "HurtB",
@@ -146,7 +146,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 72060
+   "bytes": 160908
   },
   {
    "name": "Idle",
@@ -154,7 +154,7 @@
    "face": false,
    "duration": 1.4667,
    "loop": true,
-   "bytes": 43196
+   "bytes": 118840
   },
   {
    "name": "Jump_prologue",
@@ -162,7 +162,7 @@
    "face": false,
    "duration": 2.3,
    "loop": false,
-   "bytes": 80144
+   "bytes": 158084
   },
   {
    "name": "MainStoryAct_nod",
@@ -170,7 +170,7 @@
    "face": true,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 72676
+   "bytes": 154328
   },
   {
    "name": "MainStoryAct_swordplay",
@@ -178,7 +178,7 @@
    "face": false,
    "duration": 1.5333,
    "loop": false,
-   "bytes": 78068
+   "bytes": 161332
   },
   {
    "name": "Out01",
@@ -186,7 +186,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 72864
+   "bytes": 157820
   },
   {
    "name": "Ready",
@@ -194,7 +194,7 @@
    "face": true,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 147424
+   "bytes": 248264
   },
   {
    "name": "Readyloop",
@@ -202,7 +202,7 @@
    "face": true,
    "duration": 3.7333,
    "loop": true,
-   "bytes": 47612
+   "bytes": 124788
   },
   {
    "name": "Run",
@@ -210,7 +210,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 57388
+   "bytes": 126592
   },
   {
    "name": "Rush",
@@ -218,7 +218,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 56872
+   "bytes": 131680
   },
   {
    "name": "RushStop",
@@ -226,7 +226,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 77064
+   "bytes": 160588
   },
   {
    "name": "Skill1_1_Loop",
@@ -234,7 +234,7 @@
    "face": false,
    "duration": 0.0667,
    "loop": true,
-   "bytes": 31980
+   "bytes": 87188
   },
   {
    "name": "Skill_Main_T1_ChongZhan",
@@ -242,7 +242,7 @@
    "face": false,
    "duration": 1.9167,
    "loop": false,
-   "bytes": 117592
+   "bytes": 220248
   },
   {
    "name": "Skill_Main_T1_ZaDi",
@@ -250,7 +250,7 @@
    "face": false,
    "duration": 2.6333,
    "loop": false,
-   "bytes": 133312
+   "bytes": 242744
   },
   {
    "name": "Skill_Main_T2_HuiXuanZhan",
@@ -258,7 +258,7 @@
    "face": false,
    "duration": 2.5667,
    "loop": false,
-   "bytes": 145988
+   "bytes": 253892
   },
   {
    "name": "Skill_Main_XunFengZhan",
@@ -266,7 +266,7 @@
    "face": false,
    "duration": 3.4,
    "loop": false,
-   "bytes": 154972
+   "bytes": 266796
   },
   {
    "name": "Skill_Main_ZaDi",
@@ -274,7 +274,7 @@
    "face": false,
    "duration": 2.6667,
    "loop": false,
-   "bytes": 123316
+   "bytes": 231112
   },
   {
    "name": "Skill_Support_JianQ_Big",
@@ -282,7 +282,7 @@
    "face": false,
    "duration": 2.2333,
    "loop": false,
-   "bytes": 109948
+   "bytes": 208596
   },
   {
    "name": "Skill_Support_JianQ_Big_T21",
@@ -290,7 +290,7 @@
    "face": false,
    "duration": 3.1167,
    "loop": false,
-   "bytes": 141192
+   "bytes": 253124
   },
   {
    "name": "Skill_Support_JianQi_Big2",
@@ -298,7 +298,7 @@
    "face": false,
    "duration": 3.8667,
    "loop": false,
-   "bytes": 191036
+   "bytes": 320584
   },
   {
    "name": "Skill_Support_JianQi_Small_End",
@@ -306,7 +306,7 @@
    "face": false,
    "duration": 0.0167,
    "loop": false,
-   "bytes": 26692
+   "bytes": 97768
   },
   {
    "name": "Skill_Support_JianQi_Small_Loop",
@@ -314,7 +314,7 @@
    "face": false,
    "duration": 0.35,
    "loop": true,
-   "bytes": 71612
+   "bytes": 158364
   },
   {
    "name": "Skill_Support_JianQi_Small_Start",
@@ -322,7 +322,7 @@
    "face": false,
    "duration": 0.3,
    "loop": false,
-   "bytes": 57180
+   "bytes": 138500
   },
   {
    "name": "Ultra_NoTL_ErLianZhan",
@@ -330,7 +330,7 @@
    "face": false,
    "duration": 3.4333,
    "loop": false,
-   "bytes": 162244
+   "bytes": 288380
   },
   {
    "name": "Ultra_TL_2Hit_Cut",
@@ -338,7 +338,7 @@
    "face": false,
    "duration": 2.7,
    "loop": false,
-   "bytes": 170044
+   "bytes": 293688
   },
   {
    "name": "Ultra_TL_ErLianZhan",
@@ -346,7 +346,7 @@
    "face": false,
    "duration": 3.2,
    "loop": false,
-   "bytes": 194380
+   "bytes": 327636
   },
   {
    "name": "Ultra_TL_Ready",
@@ -354,7 +354,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 85208
+   "bytes": 173320
   },
   {
    "name": "Victory",
@@ -362,7 +362,7 @@
    "face": true,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 82640
+   "bytes": 151496
   },
   {
    "name": "VictoryLoop",
@@ -370,7 +370,7 @@
    "face": true,
    "duration": 2.9333,
    "loop": true,
-   "bytes": 49356
+   "bytes": 124528
   },
   {
    "name": "Walk",
@@ -378,7 +378,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 50116
+   "bytes": 116120
   },
   {
    "name": "xuzhuang01",
@@ -386,7 +386,7 @@
    "face": false,
    "duration": 9.2333,
    "loop": false,
-   "bytes": 196872
+   "bytes": 338812
   },
   {
    "name": "Soldier_Support",
@@ -394,7 +394,7 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 91152
+   "bytes": 180376
   }
  ]
 }

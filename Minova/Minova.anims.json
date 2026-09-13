@@ -7,7 +7,7 @@
    "face": true,
    "duration": 8.6667,
    "loop": false,
-   "bytes": 271332,
+   "bytes": 336500,
    "show": [
     "weapon3"
    ],
@@ -22,7 +22,7 @@
    "face": false,
    "duration": 1.8667,
    "loop": false,
-   "bytes": 139928,
+   "bytes": 403476,
    "hide": [
     "weapon2"
    ]
@@ -33,7 +33,7 @@
    "face": false,
    "duration": 1.3667,
    "loop": false,
-   "bytes": 133464,
+   "bytes": 382136,
    "hide": [
     "weapon2"
    ]
@@ -44,7 +44,7 @@
    "face": false,
    "duration": 2.4667,
    "loop": false,
-   "bytes": 184076
+   "bytes": 539864
   },
   {
    "name": "Attack_4",
@@ -52,7 +52,7 @@
    "face": false,
    "duration": 1.5667,
    "loop": false,
-   "bytes": 125872
+   "bytes": 381756
   },
   {
    "name": "Attack_5",
@@ -60,7 +60,7 @@
    "face": false,
    "duration": 2.8667,
    "loop": false,
-   "bytes": 164200,
+   "bytes": 462520,
    "hide": [
     "weapon2"
    ]
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 187716,
+   "bytes": 507904,
    "hide": [
     "weapon2"
    ]
@@ -82,7 +82,7 @@
    "face": false,
    "duration": 2.0667,
    "loop": false,
-   "bytes": 158932,
+   "bytes": 449160,
    "hide": [
     "weapon2"
    ]
@@ -93,7 +93,7 @@
    "face": false,
    "duration": 3.0,
    "loop": false,
-   "bytes": 172880,
+   "bytes": 461200,
    "hide": [
     "weapon2"
    ]
@@ -104,7 +104,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68044,
+   "bytes": 252936,
    "hide": [
     "weapon2"
    ]
@@ -115,7 +115,7 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 164812,
+   "bytes": 480224,
    "hide": [
     "weapon2"
    ]
@@ -126,7 +126,7 @@
    "face": false,
    "duration": 0.7667,
    "loop": false,
-   "bytes": 82104,
+   "bytes": 305428,
    "hide": [
     "weapon2"
    ]
@@ -137,7 +137,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 106636,
+   "bytes": 348860,
    "hide": [
     "weapon2"
    ]
@@ -148,7 +148,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 101472,
+   "bytes": 320136,
    "hide": [
     "weapon2"
    ]
@@ -159,7 +159,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 85572,
+   "bytes": 294576,
    "hide": [
     "weapon2"
    ]
@@ -170,7 +170,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 114252,
+   "bytes": 347684,
    "hide": [
     "weapon2"
    ]
@@ -181,7 +181,7 @@
    "face": false,
    "duration": 1.5333,
    "loop": true,
-   "bytes": 62488,
+   "bytes": 250160,
    "hide": [
     "weapon2"
    ]
@@ -192,7 +192,7 @@
    "face": false,
    "duration": 0.2667,
    "loop": false,
-   "bytes": 87116,
+   "bytes": 285508,
    "hide": [
     "weapon2"
    ]
@@ -203,7 +203,7 @@
    "face": false,
    "duration": 0.5667,
    "loop": true,
-   "bytes": 100364,
+   "bytes": 349680,
    "hide": [
     "weapon2"
    ]
@@ -214,7 +214,7 @@
    "face": false,
    "duration": 2.3667,
    "loop": false,
-   "bytes": 227564
+   "bytes": 546980
   },
   {
    "name": "Main_Skill_QuickStrike_P01_Last",
@@ -222,7 +222,7 @@
    "face": false,
    "duration": 4.4,
    "loop": false,
-   "bytes": 255404,
+   "bytes": 630904,
    "hide": [
     "weapon2"
    ]
@@ -233,7 +233,7 @@
    "face": false,
    "duration": 0.3,
    "loop": false,
-   "bytes": 90996,
+   "bytes": 303620,
    "hide": [
     "weapon2"
    ]
@@ -244,7 +244,7 @@
    "face": false,
    "duration": 0.4333,
    "loop": true,
-   "bytes": 102836,
+   "bytes": 339800,
    "hide": [
     "weapon2"
    ]
@@ -255,7 +255,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 104992,
+   "bytes": 350440,
    "hide": [
     "weapon2"
    ]
@@ -266,7 +266,7 @@
    "face": false,
    "duration": 2.8333,
    "loop": false,
-   "bytes": 238548,
+   "bytes": 592824,
    "hide": [
     "weapon2"
    ]
@@ -277,7 +277,7 @@
    "face": false,
    "duration": 2.9,
    "loop": false,
-   "bytes": 221516
+   "bytes": 589584
   },
   {
    "name": "Out01",
@@ -285,7 +285,7 @@
    "face": false,
    "duration": 1.3,
    "loop": false,
-   "bytes": 112496,
+   "bytes": 347164,
    "hide": [
     "weapon2"
    ]
@@ -296,7 +296,7 @@
    "face": true,
    "duration": 4.7333,
    "loop": false,
-   "bytes": 167612,
+   "bytes": 229400,
    "show": [
     "weapon3"
    ],
@@ -311,7 +311,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 67152,
+   "bytes": 131724,
    "show": [
     "weapon3"
    ],
@@ -326,7 +326,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": true,
-   "bytes": 85240,
+   "bytes": 317456,
    "hide": [
     "weapon2"
    ]
@@ -337,7 +337,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 101820
+   "bytes": 347368
   },
   {
    "name": "Rush_2_Loop",
@@ -345,7 +345,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 93268
+   "bytes": 316068
   },
   {
    "name": "Rush_3_Stop",
@@ -353,7 +353,7 @@
    "face": false,
    "duration": 1.3667,
    "loop": false,
-   "bytes": 128596
+   "bytes": 401360
   },
   {
    "name": "Rush_3_Stop_Special",
@@ -361,7 +361,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 87000
+   "bytes": 326260
   },
   {
    "name": "Ultra_NoTL",
@@ -369,7 +369,7 @@
    "face": false,
    "duration": 4.4833,
    "loop": false,
-   "bytes": 172064,
+   "bytes": 497104,
    "hide": [
     "weapon2"
    ]
@@ -380,7 +380,7 @@
    "face": false,
    "duration": 3.7667,
    "loop": false,
-   "bytes": 126496,
+   "bytes": 399096,
    "hide": [
     "weapon2"
    ]
@@ -391,7 +391,7 @@
    "face": true,
    "duration": 4.3333,
    "loop": false,
-   "bytes": 125752,
+   "bytes": 180528,
    "show": [
     "weapon3"
    ],
@@ -406,7 +406,7 @@
    "face": true,
    "duration": 2.6667,
    "loop": true,
-   "bytes": 58496,
+   "bytes": 113476,
    "hide": [
     "weapon2"
    ]
@@ -417,7 +417,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 81032,
+   "bytes": 299964,
    "hide": [
     "weapon2"
    ]
@@ -428,7 +428,7 @@
    "face": true,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 225736,
+   "bytes": 290904,
    "show": [
     "weapon3"
    ],
@@ -443,7 +443,7 @@
    "face": false,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 29320
+   "bytes": 32604
   },
   {
    "name": "jinzhan02_timeline",
@@ -451,7 +451,7 @@
    "face": false,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 27260
+   "bytes": 30548
   },
   {
    "name": "jinzhan03_timeline",
@@ -459,7 +459,7 @@
    "face": false,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 15124
+   "bytes": 18672
   },
   {
    "name": "jinzhanhuifeng01_timeline",
@@ -467,7 +467,7 @@
    "face": false,
    "duration": 8.6667,
    "loop": false,
-   "bytes": 35596
+   "bytes": 38648
   },
   {
    "name": "jinzhanhuifeng02_timeline",
@@ -475,7 +475,7 @@
    "face": false,
    "duration": 8.6667,
    "loop": false,
-   "bytes": 29976
+   "bytes": 33028
   },
   {
    "name": "jinzhanhuifeng03_timeline",
@@ -483,7 +483,7 @@
    "face": false,
    "duration": 8.6667,
    "loop": false,
-   "bytes": 14552
+   "bytes": 17868
   },
   {
    "name": "yuancheng01_timeline",
@@ -491,7 +491,7 @@
    "face": false,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 27196
+   "bytes": 30756
   },
   {
    "name": "yuancheng02_timeline",
@@ -499,7 +499,7 @@
    "face": false,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 15548
+   "bytes": 19096
   },
   {
    "name": "yuanchenghuifeng01_timeline",
@@ -507,7 +507,7 @@
    "face": false,
    "duration": 8.6667,
    "loop": false,
-   "bytes": 35104
+   "bytes": 38432
   },
   {
    "name": "yuanchenghuifeng02_timeline",
@@ -515,7 +515,7 @@
    "face": false,
    "duration": 8.6667,
    "loop": false,
-   "bytes": 15204
+   "bytes": 18520
   }
  ]
 }

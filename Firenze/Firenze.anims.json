@@ -7,7 +7,7 @@
    "face": false,
    "duration": 2.7833,
    "loop": false,
-   "bytes": 151444
+   "bytes": 206596
   },
   {
    "name": "Attack_1",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 121592
+   "bytes": 198128
   },
   {
    "name": "Attack_2",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 1.2667,
    "loop": true,
-   "bytes": 125120
+   "bytes": 197300
   },
   {
    "name": "Attack_3",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 1.3,
    "loop": true,
-   "bytes": 165860
+   "bytes": 238284
   },
   {
    "name": "Attack_4",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 189336
+   "bytes": 262364
   },
   {
    "name": "Attack_44",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 94988
+   "bytes": 167424
   },
   {
    "name": "ChongCi",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 176708
+   "bytes": 238324
   },
   {
    "name": "Dash",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 72380
+   "bytes": 126144
   },
   {
    "name": "DashStop",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 89508
+   "bytes": 143916
   },
   {
    "name": "Dazed",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 67664
+   "bytes": 144748
   },
   {
    "name": "Die",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 2.8333,
    "loop": false,
-   "bytes": 159832
+   "bytes": 236568
   },
   {
    "name": "Dodge",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 126212
+   "bytes": 203352
   },
   {
    "name": "Hurt",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 109960
+   "bytes": 187072
   },
   {
    "name": "Hurt1",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 98436
+   "bytes": 175592
   },
   {
    "name": "Hurt2",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 92156
+   "bytes": 169500
   },
   {
    "name": "Idle",
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 81652
+   "bytes": 155992
   },
   {
    "name": "Main_Skill_Base_SanLianZhan",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 223252
+   "bytes": 297704
   },
   {
    "name": "Open",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 100388
+   "bytes": 155124
   },
   {
    "name": "Out01",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 107448
+   "bytes": 185088
   },
   {
    "name": "Ready",
@@ -159,7 +159,7 @@
    "face": true,
    "duration": 8.4333,
    "loop": false,
-   "bytes": 167584,
+   "bytes": 243372,
    "hide": [
     "sword",
     "sword_l"
@@ -171,7 +171,7 @@
    "face": true,
    "duration": 2.1667,
    "loop": true,
-   "bytes": 71632,
+   "bytes": 149056,
    "hide": [
     "sword",
     "sword_l"
@@ -183,7 +183,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 69568
+   "bytes": 147396
   },
   {
    "name": "Ready_Shadow02",
@@ -191,7 +191,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 78168
+   "bytes": 141072
   },
   {
    "name": "Run",
@@ -199,7 +199,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 95348
+   "bytes": 169220
   },
   {
    "name": "Rush_1_Start",
@@ -207,7 +207,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 115992
+   "bytes": 191140
   },
   {
    "name": "Rush_2_Loop",
@@ -215,7 +215,7 @@
    "face": false,
    "duration": 2.1333,
    "loop": true,
-   "bytes": 102968
+   "bytes": 175148
   },
   {
    "name": "Rush_3_Stop",
@@ -223,7 +223,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 95252
+   "bytes": 172104
   },
   {
    "name": "Support_Skill_Base_QuanZhang",
@@ -231,7 +231,7 @@
    "face": false,
    "duration": 3.1,
    "loop": false,
-   "bytes": 143444
+   "bytes": 220824
   },
   {
    "name": "Ultra_NoTL",
@@ -239,7 +239,7 @@
    "face": false,
    "duration": 6.5,
    "loop": false,
-   "bytes": 281172
+   "bytes": 353292
   },
   {
    "name": "Ultra_NoTL_H6",
@@ -247,7 +247,7 @@
    "face": false,
    "duration": 7.0,
    "loop": false,
-   "bytes": 291912
+   "bytes": 364052
   },
   {
    "name": "Ultra_Shadow",
@@ -255,7 +255,7 @@
    "face": false,
    "duration": 1.8,
    "loop": false,
-   "bytes": 138544
+   "bytes": 211616
   },
   {
    "name": "Ultra_TL",
@@ -263,7 +263,7 @@
    "face": false,
    "duration": 5.2333,
    "loop": false,
-   "bytes": 252484
+   "bytes": 324608
   },
   {
    "name": "Ultra_TL_H6",
@@ -271,7 +271,7 @@
    "face": false,
    "duration": 5.7333,
    "loop": false,
-   "bytes": 263940
+   "bytes": 336332
   },
   {
    "name": "Victory",
@@ -279,7 +279,7 @@
    "face": true,
    "duration": 2.4,
    "loop": false,
-   "bytes": 126216,
+   "bytes": 205440,
    "show": [
     "sword_l"
    ]
@@ -290,7 +290,7 @@
    "face": true,
    "duration": 3.2,
    "loop": true,
-   "bytes": 77840,
+   "bytes": 157708,
    "hide": [
     "sword"
    ]
@@ -301,7 +301,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 80572
+   "bytes": 146372
   },
   {
    "name": "timeline",
@@ -309,7 +309,7 @@
    "face": true,
    "duration": 4.5667,
    "loop": false,
-   "bytes": 130384
+   "bytes": 187864
   },
   {
    "name": "Monster_Dead",
@@ -317,7 +317,7 @@
    "face": false,
    "duration": 0.0667,
    "loop": false,
-   "bytes": 34192
+   "bytes": 88776
   },
   {
    "name": "Take 001",
@@ -325,7 +325,7 @@
    "face": false,
    "duration": 4.5667,
    "loop": false,
-   "bytes": 15996
+   "bytes": 107364
   },
   {
    "name": "Take 001",
@@ -333,7 +333,7 @@
    "face": false,
    "duration": 4.5667,
    "loop": false,
-   "bytes": 19812
+   "bytes": 107256
   }
  ]
 }

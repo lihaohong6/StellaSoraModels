@@ -7,7 +7,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 136076
+   "bytes": 352172
   },
   {
    "name": "Attack2",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 183272
+   "bytes": 403500
   },
   {
    "name": "Attack3",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 199728
+   "bytes": 443252
   },
   {
    "name": "Attack4",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 2.0333,
    "loop": false,
-   "bytes": 239100
+   "bytes": 510776
   },
   {
    "name": "Attack5",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 3.1,
    "loop": false,
-   "bytes": 242604
+   "bytes": 500408
   },
   {
    "name": "Attack_Strengthen_1",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 1.8,
    "loop": false,
-   "bytes": 198480
+   "bytes": 421012
   },
   {
    "name": "Attack_Strengthen_2",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 2.1667,
    "loop": false,
-   "bytes": 211148
+   "bytes": 458092
   },
   {
    "name": "Attack_Strengthen_3",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 2.6833,
    "loop": false,
-   "bytes": 199400
+   "bytes": 451516
   },
   {
    "name": "Attack_Strengthen_3_P06",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 3.8667,
    "loop": false,
-   "bytes": 261108
+   "bytes": 545056
   },
   {
    "name": "Attack_Strengthen_P04",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 193060
+   "bytes": 441372
   },
   {
    "name": "Attack_Strengthen_P04P06",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 3.3667,
    "loop": false,
-   "bytes": 304056
+   "bytes": 631136
   },
   {
    "name": "Attack_Strengthen_P06",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 3.3,
    "loop": false,
-   "bytes": 227416
+   "bytes": 535484
   },
   {
    "name": "Dazed",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 83612
+   "bytes": 263616
   },
   {
    "name": "Die",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 2.6,
    "loop": false,
-   "bytes": 200288
+   "bytes": 419132
   },
   {
    "name": "Dodge",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 1.1,
    "loop": false,
-   "bytes": 115980
+   "bytes": 308612
   },
   {
    "name": "HurtA1",
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 120516
+   "bytes": 330360
   },
   {
    "name": "HurtA2",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 125316
+   "bytes": 326476
   },
   {
    "name": "HurtB",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 151716
+   "bytes": 355760
   },
   {
    "name": "Idle",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 70660
+   "bytes": 227900
   },
   {
    "name": "Main_SKill_Charging",
@@ -159,7 +159,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 289896
+   "bytes": 561288
   },
   {
    "name": "Main_SKill_P01_Charging_Strengthen",
@@ -167,7 +167,7 @@
    "face": false,
    "duration": 2.5667,
    "loop": false,
-   "bytes": 325388
+   "bytes": 628384
   },
   {
    "name": "Out01",
@@ -175,7 +175,7 @@
    "face": false,
    "duration": 1.1,
    "loop": false,
-   "bytes": 169052
+   "bytes": 386804
   },
   {
    "name": "Ready",
@@ -183,7 +183,7 @@
    "face": true,
    "duration": 6.6667,
    "loop": false,
-   "bytes": 260540,
+   "bytes": 341108,
    "show": [
     "face_06sp",
     "face_10sp",
@@ -199,7 +199,7 @@
    "face": true,
    "duration": 3.6667,
    "loop": false,
-   "bytes": 86928,
+   "bytes": 178192,
    "show": [
     "face_06sp",
     "face_10sp",
@@ -215,7 +215,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": true,
-   "bytes": 92848
+   "bytes": 277028
   },
   {
    "name": "Rush",
@@ -223,7 +223,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 93616
+   "bytes": 279536
   },
   {
    "name": "RushStop",
@@ -231,7 +231,7 @@
    "face": false,
    "duration": 1.1,
    "loop": false,
-   "bytes": 104260
+   "bytes": 293264
   },
   {
    "name": "Support_Skill_P21_Punch_Strengthen",
@@ -239,7 +239,7 @@
    "face": false,
    "duration": 1.1333,
    "loop": false,
-   "bytes": 158688
+   "bytes": 368300
   },
   {
    "name": "Support_Skill_P22_Out_Strengthen",
@@ -247,7 +247,7 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 159876
+   "bytes": 397140
   },
   {
    "name": "Support_Skill_P23_Punch",
@@ -255,7 +255,7 @@
    "face": false,
    "duration": 3.9,
    "loop": false,
-   "bytes": 165588
+   "bytes": 399440
   },
   {
    "name": "Support_Skill_Punch",
@@ -263,7 +263,7 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 168720
+   "bytes": 391280
   },
   {
    "name": "Support_Skill_Rush",
@@ -271,7 +271,7 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 101460
+   "bytes": 295236
   },
   {
    "name": "Ultra_End",
@@ -279,7 +279,7 @@
    "face": false,
    "duration": 4.3333,
    "loop": false,
-   "bytes": 270656
+   "bytes": 557960
   },
   {
    "name": "Ultra_Loop",
@@ -287,7 +287,7 @@
    "face": false,
    "duration": 1.5667,
    "loop": true,
-   "bytes": 191944,
+   "bytes": 437148,
    "hide": [
     "weaponR"
    ]
@@ -298,7 +298,7 @@
    "face": false,
    "duration": 2.6333,
    "loop": false,
-   "bytes": 228848
+   "bytes": 483004
   },
   {
    "name": "Ultra_TL",
@@ -306,7 +306,7 @@
    "face": false,
    "duration": 1.9,
    "loop": false,
-   "bytes": 183212
+   "bytes": 407796
   },
   {
    "name": "Victory",
@@ -314,7 +314,7 @@
    "face": true,
    "duration": 5.65,
    "loop": false,
-   "bytes": 270084,
+   "bytes": 358424,
    "show": [
     "face_06sp",
     "face_10sp",
@@ -330,7 +330,7 @@
    "face": true,
    "duration": 2.7667,
    "loop": true,
-   "bytes": 88492
+   "bytes": 158668
   },
   {
    "name": "Walk",
@@ -338,7 +338,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 95820
+   "bytes": 280616
   },
   {
    "name": "timeline",
@@ -346,7 +346,7 @@
    "face": true,
    "duration": 5.2667,
    "loop": false,
-   "bytes": 309784,
+   "bytes": 396656,
    "show": [
     "face_05sp",
     "face_06sp",

@@ -7,7 +7,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 23504,
+   "bytes": 99740,
    "hide": [
     "weaponA",
     "weaponB"
@@ -19,7 +19,7 @@
    "face": false,
    "duration": 1.3667,
    "loop": false,
-   "bytes": 119776,
+   "bytes": 303788,
    "hide": [
     "weaponA",
     "weaponB"
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 124272,
+   "bytes": 314660,
    "hide": [
     "weaponA",
     "weaponB"
@@ -43,7 +43,7 @@
    "face": false,
    "duration": 2.0333,
    "loop": false,
-   "bytes": 135020,
+   "bytes": 329696,
    "hide": [
     "weaponA",
     "weaponB"
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 2.1,
    "loop": false,
-   "bytes": 138116,
+   "bytes": 336240,
    "hide": [
     "weaponA",
     "weaponB"
@@ -67,7 +67,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 139932,
+   "bytes": 348672,
    "hide": [
     "weaponA",
     "weaponB"
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 65116,
+   "bytes": 224928,
    "hide": [
     "weaponA",
     "weaponB"
@@ -91,7 +91,7 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 152908,
+   "bytes": 355148,
    "hide": [
     "weaponA",
     "weaponB"
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 0.0333,
    "loop": false,
-   "bytes": 44936,
+   "bytes": 189052,
    "hide": [
     "weaponA",
     "weaponB"
@@ -115,7 +115,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 128336,
+   "bytes": 295008,
    "hide": [
     "weaponA",
     "weaponB"
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 88380,
+   "bytes": 246404,
    "hide": [
     "weaponA",
     "weaponB"
@@ -139,7 +139,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 88564,
+   "bytes": 251284,
    "hide": [
     "weaponA",
     "weaponB"
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 104052,
+   "bytes": 247064,
    "hide": [
     "weaponA",
     "weaponB"
@@ -163,7 +163,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68064,
+   "bytes": 185884,
    "hide": [
     "weaponA",
     "weaponB"
@@ -175,7 +175,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 111100,
+   "bytes": 281344,
    "hide": [
     "weaponA",
     "weaponB"
@@ -187,7 +187,7 @@
    "face": true,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 157916,
+   "bytes": 331588,
    "hide": [
     "weaponA",
     "weaponB"
@@ -199,7 +199,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 84236,
+   "bytes": 214588,
    "hide": [
     "weaponA",
     "weaponB"
@@ -211,7 +211,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 95564,
+   "bytes": 249224,
    "hide": [
     "weaponA",
     "weaponB"
@@ -223,7 +223,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 88292,
+   "bytes": 227940,
    "hide": [
     "weaponA",
     "weaponB"
@@ -235,7 +235,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 89828,
+   "bytes": 256924,
    "hide": [
     "weaponA",
     "weaponB"
@@ -247,7 +247,7 @@
    "face": false,
    "duration": 2.2333,
    "loop": false,
-   "bytes": 134776,
+   "bytes": 319580,
    "hide": [
     "weaponA",
     "weaponB"
@@ -259,7 +259,7 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 106192,
+   "bytes": 268336,
    "hide": [
     "weaponA",
     "weaponB"
@@ -271,7 +271,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 101852,
+   "bytes": 269496,
    "hide": [
     "weaponA",
     "weaponB"
@@ -283,7 +283,7 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 105480,
+   "bytes": 270336,
    "hide": [
     "weaponA",
     "weaponB"
@@ -295,7 +295,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 71668,
+   "bytes": 232368,
    "hide": [
     "weaponA",
     "weaponB"
@@ -307,7 +307,7 @@
    "face": true,
    "duration": 3.95,
    "loop": false,
-   "bytes": 167552
+   "bytes": 366500
   },
   {
    "name": "VictoryLoop",
@@ -315,7 +315,7 @@
    "face": true,
    "duration": 3.8667,
    "loop": true,
-   "bytes": 73972,
+   "bytes": 213904,
    "hide": [
     "weaponA",
     "weaponB"
@@ -327,7 +327,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 80516,
+   "bytes": 208792,
    "hide": [
     "weaponA",
     "weaponB"
@@ -339,7 +339,7 @@
    "face": false,
    "duration": 0.1667,
    "loop": false,
-   "bytes": 40412,
+   "bytes": 143460,
    "hide": [
     "weaponA",
     "weaponB"

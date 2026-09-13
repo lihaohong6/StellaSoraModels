@@ -7,7 +7,7 @@
    "face": false,
    "duration": 5.6667,
    "loop": false,
-   "bytes": 2700
+   "bytes": 86572
   },
   {
    "name": "Cat_VictoryLoop",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 2.6667,
    "loop": true,
-   "bytes": 1340
+   "bytes": 47480
   },
   {
    "name": "Ready",
@@ -23,7 +23,7 @@
    "face": true,
    "duration": 3.8667,
    "loop": false,
-   "bytes": 252592
+   "bytes": 367044
   },
   {
    "name": "ReadyLoop",
@@ -31,7 +31,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 83524
+   "bytes": 179736
   },
   {
    "name": "Timeline",
@@ -39,7 +39,7 @@
    "face": true,
    "duration": 3.0667,
    "loop": false,
-   "bytes": 238948
+   "bytes": 313248
   },
   {
    "name": "Victory",
@@ -47,7 +47,7 @@
    "face": true,
    "duration": 5.6667,
    "loop": false,
-   "bytes": 169184,
+   "bytes": 323704,
    "hide": [
     "weapon_L",
     "weapon_R"
@@ -59,7 +59,7 @@
    "face": true,
    "duration": 2.6667,
    "loop": true,
-   "bytes": 79800,
+   "bytes": 196720,
    "hide": [
     "weapon_L",
     "weapon_R"

@@ -7,7 +7,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 57256
+   "bytes": 221456
   },
   {
    "name": "Aim1",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 54624
+   "bytes": 110192
   },
   {
    "name": "Aim_Start",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 0.2,
    "loop": true,
-   "bytes": 38044
+   "bytes": 186120
   },
   {
    "name": "Aim_Start1",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 0.2,
    "loop": true,
-   "bytes": 35992
+   "bytes": 91416
   },
   {
    "name": "Attack_P02",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 4.0,
    "loop": false,
-   "bytes": 207548
+   "bytes": 429532
   },
   {
    "name": "Attack_P02_ForTowerDefence",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 4.0,
    "loop": true,
-   "bytes": 207564
+   "bytes": 429548
   },
   {
    "name": "B1_Skill_Strafing",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 2.8667,
    "loop": false,
-   "bytes": 133780
+   "bytes": 317616
   },
   {
    "name": "B1_Skill_Strafing002",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 119128
+   "bytes": 277204
   },
   {
    "name": "B1_Skill_Strafing003",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 1.9333,
    "loop": false,
-   "bytes": 101228
+   "bytes": 244528
   },
   {
    "name": "B1_Skill_Strafing_Strengthen",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 2.8333,
    "loop": false,
-   "bytes": 138428
+   "bytes": 324672
   },
   {
    "name": "B1_Skill_Strafing_Strengthen002",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 122692
+   "bytes": 278244
   },
   {
    "name": "B1_Skill_Strafing_Strengthen003",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 99752
+   "bytes": 235540
   },
   {
    "name": "B2_Skill_RotaryFiring_1_Start",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 0.2333,
    "loop": false,
-   "bytes": 73104
+   "bytes": 219736
   },
   {
    "name": "B2_Skill_RotaryFiring_2_Loop",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 114564
+   "bytes": 251528
   },
   {
    "name": "B2_Skill_RotaryFiring_3_End",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 1.1333,
    "loop": false,
-   "bytes": 97748
+   "bytes": 269576
   },
   {
    "name": "B2_Skill_SprintShoot",
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 2.6667,
    "loop": false,
-   "bytes": 293524
+   "bytes": 484296
   },
   {
    "name": "Dazed",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 61916
+   "bytes": 219568
   },
   {
    "name": "Die",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 2.7,
    "loop": false,
-   "bytes": 127352
+   "bytes": 355568
   },
   {
    "name": "Dodge",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 82316
+   "bytes": 257584
   },
   {
    "name": "Dodge_1",
@@ -159,7 +159,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 72756
+   "bytes": 229396
   },
   {
    "name": "Fire",
@@ -167,7 +167,7 @@
    "face": false,
    "duration": 0.5,
    "loop": true,
-   "bytes": 62300
+   "bytes": 198440
   },
   {
    "name": "Hurt",
@@ -175,7 +175,7 @@
    "face": false,
    "duration": 0.7667,
    "loop": false,
-   "bytes": 103240
+   "bytes": 287624
   },
   {
    "name": "Hurt1",
@@ -183,7 +183,7 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 85556
+   "bytes": 259072
   },
   {
    "name": "Hurt2",
@@ -191,7 +191,7 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 78776
+   "bytes": 253960
   },
   {
    "name": "Idle",
@@ -199,7 +199,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 59612
+   "bytes": 203280
   },
   {
    "name": "MainStoryAct_nod",
@@ -207,7 +207,7 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 63560
+   "bytes": 122180
   },
   {
    "name": "MainStoryAct_ready",
@@ -215,7 +215,7 @@
    "face": false,
    "duration": 2.2,
    "loop": false,
-   "bytes": 118200
+   "bytes": 211664
   },
   {
    "name": "MainStoryAct_typing",
@@ -223,7 +223,7 @@
    "face": false,
    "duration": 6.1333,
    "loop": false,
-   "bytes": 152756
+   "bytes": 210036
   },
   {
    "name": "Out01",
@@ -231,7 +231,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 87604
+   "bytes": 279848
   },
   {
    "name": "Ready",
@@ -239,7 +239,7 @@
    "face": true,
    "duration": 3.8667,
    "loop": false,
-   "bytes": 167548
+   "bytes": 226860
   },
   {
    "name": "ReadyLoop",
@@ -247,7 +247,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 58712
+   "bytes": 116588
   },
   {
    "name": "Reload",
@@ -255,7 +255,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 80016
+   "bytes": 240368
   },
   {
    "name": "Run",
@@ -263,7 +263,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 86868
+   "bytes": 267604
   },
   {
    "name": "Run1",
@@ -271,7 +271,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 80064
+   "bytes": 138980
   },
   {
    "name": "Rush",
@@ -279,7 +279,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 77048
+   "bytes": 249456
   },
   {
    "name": "RushStop",
@@ -287,7 +287,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 93376
+   "bytes": 270644
   },
   {
    "name": "Skill0_2",
@@ -295,7 +295,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 86756
+   "bytes": 122020
   },
   {
    "name": "Support_Skill_P24_StandShoot",
@@ -303,7 +303,7 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 124852
+   "bytes": 310432
   },
   {
    "name": "Timeline",
@@ -311,7 +311,7 @@
    "face": true,
    "duration": 3.0667,
    "loop": false,
-   "bytes": 158600,
+   "bytes": 201892,
    "show": [
     "Cat"
    ]
@@ -322,7 +322,7 @@
    "face": false,
    "duration": 2.1333,
    "loop": false,
-   "bytes": 172324
+   "bytes": 381184
   },
   {
    "name": "Ultra_TL",
@@ -330,7 +330,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 110336
+   "bytes": 270068
   },
   {
    "name": "Victory",
@@ -338,7 +338,7 @@
    "face": true,
    "duration": 5.6667,
    "loop": false,
-   "bytes": 195468,
+   "bytes": 258172,
    "show": [
     "Cat"
    ],
@@ -353,7 +353,7 @@
    "face": true,
    "duration": 2.6667,
    "loop": true,
-   "bytes": 84592,
+   "bytes": 163120,
    "hide": [
     "weapon_L",
     "weapon_R"
@@ -365,7 +365,7 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 73384
+   "bytes": 224120
   },
   {
    "name": "Walk1",
@@ -373,7 +373,7 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 72928
+   "bytes": 109668
   },
   {
    "name": "Walk_Backward",
@@ -381,7 +381,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 66780
+   "bytes": 231008
   },
   {
    "name": "Walk_Backward1",
@@ -389,7 +389,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 63024
+   "bytes": 120500
   },
   {
    "name": "Walk_Forward",
@@ -397,7 +397,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 67080
+   "bytes": 231996
   },
   {
    "name": "Walk_Forward1",
@@ -405,7 +405,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 63340
+   "bytes": 120820
   },
   {
    "name": "Walk_Left",
@@ -413,7 +413,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 66436
+   "bytes": 228428
   },
   {
    "name": "Walk_Left1",
@@ -421,7 +421,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 63252
+   "bytes": 120476
   },
   {
    "name": "Walk_Right",
@@ -429,7 +429,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 67756
+   "bytes": 211584
   },
   {
    "name": "Walk_Right1",
@@ -437,7 +437,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 64472
+   "bytes": 121184
   },
   {
    "name": "Episode0Act_Back2-1-3",
@@ -445,7 +445,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 115312
+   "bytes": 171788
   },
   {
    "name": "Episode0Act_Back2-2-3",
@@ -453,7 +453,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 115312
+   "bytes": 171788
   },
   {
    "name": "Episode0Act_Back2-2-4_End",
@@ -461,7 +461,7 @@
    "face": false,
    "duration": 1.4333,
    "loop": false,
-   "bytes": 106520
+   "bytes": 163140
   },
   {
    "name": "Episode0Act_Back2-2-4_Loop",
@@ -469,7 +469,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 65804
+   "bytes": 123196
   },
   {
    "name": "Episode0Act_Back2-2-4_Start",
@@ -477,7 +477,7 @@
    "face": false,
    "duration": 0.2667,
    "loop": false,
-   "bytes": 54532
+   "bytes": 103268
   },
   {
    "name": "Episode0Act_Idle3-1",
@@ -485,7 +485,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 92116
+   "bytes": 149440
   },
   {
    "name": "Episode0Act_Run2-1-2",
@@ -493,7 +493,7 @@
    "face": false,
    "duration": 1.4667,
    "loop": true,
-   "bytes": 102776
+   "bytes": 159808
   },
   {
    "name": "Episode0Act_Run2-2-1",
@@ -501,7 +501,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": true,
-   "bytes": 90264
+   "bytes": 147324
   },
   {
    "name": "Episode0Act_Run3-1",
@@ -509,7 +509,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 103428
+   "bytes": 157688
   },
   {
    "name": "Episode0Act_Run4-2",
@@ -517,7 +517,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 95764
+   "bytes": 140140
   },
   {
    "name": "Episode0Act_Run4-2-B",
@@ -525,7 +525,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 95224
+   "bytes": 138068
   },
   {
    "name": "Episode0Act_Run4-2-F",
@@ -533,7 +533,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 95304
+   "bytes": 138152
   },
   {
    "name": "Episode0Act_Run4-2-L",
@@ -541,7 +541,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 95564
+   "bytes": 138412
   },
   {
    "name": "Episode0Act_Run4-2-L-Sky",
@@ -549,7 +549,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 95360
+   "bytes": 138208
   },
   {
    "name": "Episode0Act_Run4-2-Land-L",
@@ -557,7 +557,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 76596
+   "bytes": 128008
   },
   {
    "name": "Episode0Act_Run4-2-Land-M",
@@ -565,7 +565,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": false,
-   "bytes": 74360
+   "bytes": 124552
   },
   {
    "name": "Episode0Act_Run4-2-R",
@@ -573,7 +573,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 96132
+   "bytes": 138980
   },
   {
    "name": "Episode0Act_Run4-2-R-Sky",
@@ -581,7 +581,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 95096
+   "bytes": 137940
   },
   {
    "name": "Episode0Act_Run4-2-Sky",
@@ -589,7 +589,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 96144
+   "bytes": 140024
   },
   {
    "name": "Episode0Act_Sp3",
@@ -597,7 +597,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 146308
+   "bytes": 202756
   },
   {
    "name": "Episode0Act_Sp4",
@@ -605,7 +605,7 @@
    "face": false,
    "duration": 3.0,
    "loop": false,
-   "bytes": 99392,
+   "bytes": 176104,
    "hide": [
     "weapon_L",
     "weapon_R"
@@ -617,7 +617,7 @@
    "face": false,
    "duration": 3.5667,
    "loop": false,
-   "bytes": 164820
+   "bytes": 220892
   },
   {
    "name": "Episode0Act_SpRun4-1-Loop",
@@ -625,7 +625,7 @@
    "face": false,
    "duration": 2.6333,
    "loop": true,
-   "bytes": 126916
+   "bytes": 183564
   },
   {
    "name": "Episode0Act_SpRun4-1-Start",
@@ -633,7 +633,7 @@
    "face": false,
    "duration": 2.1,
    "loop": false,
-   "bytes": 112440
+   "bytes": 168532
   },
   {
    "name": "Episode0Act_SpRun4-2",
@@ -641,7 +641,7 @@
    "face": false,
    "duration": 3.0,
    "loop": false,
-   "bytes": 120552
+   "bytes": 174956
   },
   {
    "name": "Episode0Act_SpRun4-3-End",
@@ -649,7 +649,7 @@
    "face": false,
    "duration": 5.1667,
    "loop": false,
-   "bytes": 138636
+   "bytes": 182432
   },
   {
    "name": "Episode0Act_SpRun4-3-Loop",
@@ -657,7 +657,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 89064
+   "bytes": 133656
   },
   {
    "name": "Episode0Act_SpRun4-3-Start",
@@ -665,7 +665,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 86536
+   "bytes": 131152
   },
   {
    "name": "PrologueAct_Status1_End",
@@ -673,7 +673,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 93364
+   "bytes": 150980
   },
   {
    "name": "PrologueAct_Status1_Enter",
@@ -681,7 +681,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 103016
+   "bytes": 161452
   },
   {
    "name": "PrologueAct_Status1_Idle",
@@ -689,7 +689,7 @@
    "face": false,
    "duration": 6.6667,
    "loop": true,
-   "bytes": 172120
+   "bytes": 229928
   },
   {
    "name": "PrologueAct_Status1_LookBack",
@@ -697,7 +697,7 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 118480,
+   "bytes": 175576,
    "hide": [
     "weapon_R"
    ]
@@ -708,7 +708,7 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 160436
+   "bytes": 218008
   },
   {
    "name": "PrologueAct_Status1_Move",
@@ -716,7 +716,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 88856
+   "bytes": 145904
   },
   {
    "name": "PrologueAct_Status1_Move1",
@@ -724,7 +724,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 88860
+   "bytes": 145904
   },
   {
    "name": "PrologueAct_Status2_End",
@@ -732,7 +732,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 82416
+   "bytes": 140128
   },
   {
    "name": "PrologueAct_Status2_Enter",
@@ -740,7 +740,7 @@
    "face": false,
    "duration": 9.4333,
    "loop": false,
-   "bytes": 327332
+   "bytes": 383080
   },
   {
    "name": "PrologueAct_Status2_Idle",
@@ -748,7 +748,7 @@
    "face": false,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 108192
+   "bytes": 165792
   },
   {
    "name": "PrologueAct_Status2_LookBack",
@@ -756,7 +756,7 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 117280,
+   "bytes": 174148,
    "hide": [
     "weapon_L",
     "weapon_R"
@@ -768,7 +768,7 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 158680,
+   "bytes": 216252,
    "hide": [
     "weapon_L",
     "weapon_R"
@@ -780,7 +780,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 88176
+   "bytes": 144672
   },
   {
    "name": "PrologueAct_Status2_Walk",
@@ -788,7 +788,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 92264,
+   "bytes": 149328,
    "hide": [
     "weapon_L",
     "weapon_R"
@@ -800,7 +800,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 77368
+   "bytes": 136616
   },
   {
    "name": "PrologueAct_Status3_End",
@@ -808,7 +808,7 @@
    "face": false,
    "duration": 3.5,
    "loop": false,
-   "bytes": 128780
+   "bytes": 187996
   },
   {
    "name": "PrologueAct_Status4_Idle",
@@ -816,7 +816,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 92956
+   "bytes": 150284
   },
   {
    "name": "PrologueAct_Status4_Move",
@@ -824,7 +824,7 @@
    "face": false,
    "duration": 1.7333,
    "loop": true,
-   "bytes": 113424
+   "bytes": 165044
   },
   {
    "name": "PrologueAct_Status5_End",
@@ -832,7 +832,7 @@
    "face": false,
    "duration": 5.7667,
    "loop": false,
-   "bytes": 198984
+   "bytes": 255244
   },
   {
    "name": "PrologueAct_Status5_Idle",
@@ -840,7 +840,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 102588
+   "bytes": 159664
   },
   {
    "name": "PrologueAct_Status5_Move",
@@ -848,7 +848,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 111824
+   "bytes": 166564
   },
   {
    "name": "PrologueAct_Status5_SP",
@@ -856,7 +856,7 @@
    "face": false,
    "duration": 2.0667,
    "loop": false,
-   "bytes": 119364
+   "bytes": 176656
   }
  ]
 }

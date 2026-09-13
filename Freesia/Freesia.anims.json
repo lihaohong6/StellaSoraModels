@@ -7,7 +7,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 141056
+   "bytes": 431704
   },
   {
    "name": "Attack_2",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 132636
+   "bytes": 428100
   },
   {
    "name": "Attack_3",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 151356
+   "bytes": 469060
   },
   {
    "name": "Attack_4",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 167352
+   "bytes": 525300
   },
   {
    "name": "Attack_5",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 2.5,
    "loop": false,
-   "bytes": 175224
+   "bytes": 501392
   },
   {
    "name": "Attack_Rage_1",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 1.9,
    "loop": false,
-   "bytes": 194176
+   "bytes": 572720
   },
   {
    "name": "Attack_Rage_2",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 2.1,
    "loop": false,
-   "bytes": 146884
+   "bytes": 464080
   },
   {
    "name": "Attack_Rage_3",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 3.9,
    "loop": false,
-   "bytes": 228516
+   "bytes": 650368
   },
   {
    "name": "Daze",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 66996
+   "bytes": 301564
   },
   {
    "name": "Daze_Rage",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 67372
+   "bytes": 303764
   },
   {
    "name": "Die",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 2.5333,
    "loop": false,
-   "bytes": 197440
+   "bytes": 524812
   },
   {
    "name": "Die_Rage",
@@ -95,7 +95,7 @@
    "face": true,
    "duration": 2.3,
    "loop": false,
-   "bytes": 177876
+   "bytes": 498064
   },
   {
    "name": "Dodge",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 100284
+   "bytes": 359532
   },
   {
    "name": "Dodge_Rage",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 132252
+   "bytes": 215644
   },
   {
    "name": "Dodge_Rage_Normal",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 110684
+   "bytes": 370192
   },
   {
    "name": "HurtA1",
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 85984
+   "bytes": 359808
   },
   {
    "name": "HurtA1_Rage",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 112692
+   "bytes": 379496
   },
   {
    "name": "HurtA2",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 108108
+   "bytes": 374488
   },
   {
    "name": "HurtA2_Rage",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 108764
+   "bytes": 366776
   },
   {
    "name": "HurtB",
@@ -159,7 +159,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 114196
+   "bytes": 416672
   },
   {
    "name": "HurtB_Rage",
@@ -167,7 +167,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 123520
+   "bytes": 378940
   },
   {
    "name": "Idle",
@@ -175,7 +175,7 @@
    "face": false,
    "duration": 1.5333,
    "loop": true,
-   "bytes": 58880
+   "bytes": 287048
   },
   {
    "name": "Idle_Rage",
@@ -183,7 +183,7 @@
    "face": false,
    "duration": 1.5333,
    "loop": true,
-   "bytes": 76000
+   "bytes": 305856
   },
   {
    "name": "Main_Skill_Charge_1_Start",
@@ -191,7 +191,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 90084
+   "bytes": 338700
   },
   {
    "name": "Main_Skill_Charge_1_Start_Rage",
@@ -199,7 +199,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 116972
+   "bytes": 198632
   },
   {
    "name": "Main_Skill_Charge_2_Loop_Idle",
@@ -207,7 +207,7 @@
    "face": false,
    "duration": 1.5333,
    "loop": true,
-   "bytes": 74492
+   "bytes": 294388
   },
   {
    "name": "Main_Skill_Charge_2_Loop_Run",
@@ -215,7 +215,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": true,
-   "bytes": 98736
+   "bytes": 292324
   },
   {
    "name": "Main_Skill_P02_WhirlWind_1_Start",
@@ -223,7 +223,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 112836
+   "bytes": 194516
   },
   {
    "name": "Main_Skill_P02_WhirlWind_1_Start_Rage",
@@ -231,7 +231,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 117056
+   "bytes": 199004
   },
   {
    "name": "Main_Skill_WhirlWind_1_Start",
@@ -239,7 +239,7 @@
    "face": false,
    "duration": 0.2,
    "loop": false,
-   "bytes": 57276
+   "bytes": 252296
   },
   {
    "name": "Main_Skill_WhirlWind_2_Loop",
@@ -247,7 +247,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 88548
+   "bytes": 345440
   },
   {
    "name": "Main_Skill_WhirlWind_3_End",
@@ -255,7 +255,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 138720
+   "bytes": 434440
   },
   {
    "name": "Main_Skill_WhirlWind_4_End_Hurt",
@@ -263,7 +263,7 @@
    "face": false,
    "duration": 2.6667,
    "loop": false,
-   "bytes": 171788
+   "bytes": 520784
   },
   {
    "name": "Out01",
@@ -271,7 +271,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 82744
+   "bytes": 316040
   },
   {
    "name": "Rage_Out",
@@ -279,7 +279,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 106816
+   "bytes": 360680
   },
   {
    "name": "Ready",
@@ -287,7 +287,7 @@
    "face": true,
    "duration": 4.4,
    "loop": false,
-   "bytes": 194292
+   "bytes": 276824
   },
   {
    "name": "ReadyLoop",
@@ -295,7 +295,7 @@
    "face": true,
    "duration": 3.8667,
    "loop": true,
-   "bytes": 66588
+   "bytes": 152784
   },
   {
    "name": "Run",
@@ -303,7 +303,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": true,
-   "bytes": 96216
+   "bytes": 347824
   },
   {
    "name": "Run_Rage",
@@ -311,7 +311,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": true,
-   "bytes": 93896
+   "bytes": 353360
   },
   {
    "name": "Rush",
@@ -319,7 +319,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 95916
+   "bytes": 348064
   },
   {
    "name": "RushStop",
@@ -327,7 +327,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 97796
+   "bytes": 335132
   },
   {
    "name": "RushStop_Rage_Normal",
@@ -335,7 +335,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 99280
+   "bytes": 344992
   },
   {
    "name": "Rush_Rage",
@@ -343,7 +343,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 84100
+   "bytes": 348440
   },
   {
    "name": "Support_Skill_IceFlower",
@@ -351,7 +351,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 136356
+   "bytes": 472660
   },
   {
    "name": "Ultra_NoTL",
@@ -359,7 +359,7 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 314980
+   "bytes": 839472
   },
   {
    "name": "Ultra_TL",
@@ -367,7 +367,7 @@
    "face": false,
    "duration": 3.8,
    "loop": false,
-   "bytes": 247156
+   "bytes": 677344
   },
   {
    "name": "Victory",
@@ -375,7 +375,7 @@
    "face": true,
    "duration": 4.0,
    "loop": false,
-   "bytes": 136728
+   "bytes": 216116
   },
   {
    "name": "VictoryLoop",
@@ -383,7 +383,7 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 61664
+   "bytes": 144840
   },
   {
    "name": "Walk",
@@ -391,7 +391,7 @@
    "face": false,
    "duration": 1.1333,
    "loop": true,
-   "bytes": 85680
+   "bytes": 318468
   },
   {
    "name": "Walk_Rage",
@@ -399,7 +399,7 @@
    "face": false,
    "duration": 1.4,
    "loop": true,
-   "bytes": 85744
+   "bytes": 327440
   },
   {
    "name": "timeline",
@@ -407,7 +407,7 @@
    "face": true,
    "duration": 4.5,
    "loop": false,
-   "bytes": 162548
+   "bytes": 238456
   },
   {
    "name": "timeline_cut",
@@ -415,7 +415,7 @@
    "face": true,
    "duration": 2.6833,
    "loop": false,
-   "bytes": 160320
+   "bytes": 235732
   }
  ]
 }

@@ -7,7 +7,7 @@
    "face": false,
    "duration": 1.9333,
    "loop": false,
-   "bytes": 159424
+   "bytes": 217852
   },
   {
    "name": "Attack02",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 133052
+   "bytes": 191588
   },
   {
    "name": "Attack03",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 107008
+   "bytes": 166556
   },
   {
    "name": "Attack04",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 65464
+   "bytes": 91160
   },
   {
    "name": "Attack05",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 2.8333,
    "loop": false,
-   "bytes": 175628
+   "bytes": 236064
   },
   {
    "name": "Attack_5_Strengthen",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 141392
+   "bytes": 212584
   },
   {
    "name": "Daze",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 1.8333,
    "loop": true,
-   "bytes": 67944
+   "bytes": 117120
   },
   {
    "name": "Die",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 3.2333,
    "loop": false,
-   "bytes": 164468
+   "bytes": 211096
   },
   {
    "name": "Dodge",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 87640
+   "bytes": 140928
   },
   {
    "name": "HurtA1",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 0.6333,
    "loop": false,
-   "bytes": 67268
+   "bytes": 128784
   },
   {
    "name": "HurtA2",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 0.6333,
    "loop": false,
-   "bytes": 69888
+   "bytes": 129040
   },
   {
    "name": "HurtB",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 1.2667,
    "loop": false,
-   "bytes": 101804
+   "bytes": 160824
   },
   {
    "name": "Idle",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 57184
+   "bytes": 102372
   },
   {
    "name": "Main_Skill_Thunderbolt_Cut",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 5.3667,
    "loop": false,
-   "bytes": 391804
+   "bytes": 462196
   },
   {
    "name": "Main_Skill_Thunderbolt_Cut_Lv1",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 3.2667,
    "loop": false,
-   "bytes": 205064
+   "bytes": 279792
   },
   {
    "name": "Main_Skill_Thunderbolt_Cut_Lv2",
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 3.5833,
    "loop": false,
-   "bytes": 231356
+   "bytes": 301484
   },
   {
    "name": "Main_Skill_Thunderbolt_Cut_Lv3",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 4.1,
    "loop": false,
-   "bytes": 251292
+   "bytes": 316680
   },
   {
    "name": "Main_Skill_Thunderbolt_Laser_Lv1",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 2.65,
    "loop": false,
-   "bytes": 142032
+   "bytes": 216480
   },
   {
    "name": "Main_Skill_Thunderbolt_Laser_Lv2",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 2.8167,
    "loop": false,
-   "bytes": 152464
+   "bytes": 222832
   },
   {
    "name": "Main_Skill_Thunderbolt_Laser_Lv3",
@@ -159,7 +159,7 @@
    "face": false,
    "duration": 2.7167,
    "loop": false,
-   "bytes": 149448
+   "bytes": 214700
   },
   {
    "name": "Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv1",
@@ -167,7 +167,7 @@
    "face": false,
    "duration": 0.7667,
    "loop": false,
-   "bytes": 97076
+   "bytes": 171524
   },
   {
    "name": "Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv2",
@@ -175,7 +175,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 111748
+   "bytes": 181912
   },
   {
    "name": "Main_Skill_Thunderbolt_P04_Laser_1_Start_Lv3",
@@ -183,7 +183,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": false,
-   "bytes": 105192
+   "bytes": 170324
   },
   {
    "name": "Main_Skill_Thunderbolt_P04_Laser_2_Loop",
@@ -191,7 +191,7 @@
    "face": false,
    "duration": 1.4667,
    "loop": true,
-   "bytes": 61052
+   "bytes": 124744
   },
   {
    "name": "Main_Skill_Thunderbolt_P04_Laser_3_End",
@@ -199,7 +199,7 @@
    "face": false,
    "duration": 1.85,
    "loop": false,
-   "bytes": 95196
+   "bytes": 160892
   },
   {
    "name": "Out01",
@@ -207,7 +207,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 69964
+   "bytes": 116912
   },
   {
    "name": "Ready",
@@ -215,7 +215,7 @@
    "face": true,
    "duration": 4.0,
    "loop": false,
-   "bytes": 209780
+   "bytes": 289796
   },
   {
    "name": "Ready_Loop",
@@ -223,7 +223,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 50836
+   "bytes": 137220
   },
   {
    "name": "Run",
@@ -231,7 +231,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": true,
-   "bytes": 79104
+   "bytes": 130832
   },
   {
    "name": "Rush",
@@ -239,7 +239,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 80144
+   "bytes": 127492
   },
   {
    "name": "RushStop",
@@ -247,7 +247,7 @@
    "face": false,
    "duration": 1.2667,
    "loop": false,
-   "bytes": 79572
+   "bytes": 150928
   },
   {
    "name": "Support_Skill_Discharge_1_Start",
@@ -255,7 +255,7 @@
    "face": false,
    "duration": 2.2,
    "loop": false,
-   "bytes": 179276
+   "bytes": 241992
   },
   {
    "name": "Support_Skill_Discharge_1_Start_Strengthen",
@@ -263,7 +263,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 97392
+   "bytes": 159660
   },
   {
    "name": "Support_Skill_Discharge_2_Loop",
@@ -271,7 +271,7 @@
    "face": false,
    "duration": 1.4667,
    "loop": true,
-   "bytes": 66764
+   "bytes": 130328
   },
   {
    "name": "Support_Skill_Discharge_2_Loop_Strengthen",
@@ -279,7 +279,7 @@
    "face": false,
    "duration": 1.5333,
    "loop": true,
-   "bytes": 81756
+   "bytes": 143436
   },
   {
    "name": "Support_Skill_Discharge_3_End",
@@ -287,7 +287,7 @@
    "face": false,
    "duration": 2.1333,
    "loop": false,
-   "bytes": 101208
+   "bytes": 160700
   },
   {
    "name": "Support_Skill_Discharge_3_End_Strengthen",
@@ -295,7 +295,7 @@
    "face": false,
    "duration": 2.0667,
    "loop": false,
-   "bytes": 116660
+   "bytes": 179444
   },
   {
    "name": "Ultra_NoTL",
@@ -303,7 +303,7 @@
    "face": false,
    "duration": 6.4667,
    "loop": false,
-   "bytes": 306816
+   "bytes": 355272
   },
   {
    "name": "Ultra_TL",
@@ -311,7 +311,7 @@
    "face": false,
    "duration": 3.3667,
    "loop": false,
-   "bytes": 161100
+   "bytes": 206668
   },
   {
    "name": "Victory",
@@ -319,7 +319,7 @@
    "face": true,
    "duration": 4.6833,
    "loop": false,
-   "bytes": 138404
+   "bytes": 205076
   },
   {
    "name": "Victory_Loop",
@@ -327,7 +327,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 65800
+   "bytes": 131908
   },
   {
    "name": "Walk",
@@ -335,7 +335,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 71980
+   "bytes": 121148
   },
   {
    "name": "timeline",
@@ -343,7 +343,7 @@
    "face": true,
    "duration": 3.5333,
    "loop": false,
-   "bytes": 257584
+   "bytes": 309288
   },
   {
    "name": "Take 001",
@@ -351,7 +351,7 @@
    "face": false,
    "duration": 3.5833,
    "loop": false,
-   "bytes": 231336
+   "bytes": 301464
   },
   {
    "name": "Take 001",
@@ -359,7 +359,7 @@
    "face": true,
    "duration": 6.6833,
    "loop": false,
-   "bytes": 150644
+   "bytes": 216712
   },
   {
    "name": "Take 001",
@@ -367,7 +367,7 @@
    "face": false,
    "duration": 5.6,
    "loop": false,
-   "bytes": 209184
+   "bytes": 277184
   },
   {
    "name": "Take 001",
@@ -375,7 +375,7 @@
    "face": false,
    "duration": 4.1,
    "loop": false,
-   "bytes": 251272
+   "bytes": 316656
   }
  ]
 }

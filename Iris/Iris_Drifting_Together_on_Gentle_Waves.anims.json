@@ -7,7 +7,7 @@
    "face": true,
    "duration": 4.2667,
    "loop": false,
-   "bytes": 176360,
+   "bytes": 256880,
    "show": [
     "weapon1"
    ],
@@ -21,7 +21,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 79520,
+   "bytes": 158880,
    "show": [
     "weapon1"
    ],
@@ -35,7 +35,7 @@
    "face": true,
    "duration": 2.0,
    "loop": false,
-   "bytes": 73088,
+   "bytes": 152460,
    "hide": [
     "weapon2"
    ]
@@ -46,7 +46,7 @@
    "face": true,
    "duration": 6.4333,
    "loop": false,
-   "bytes": 353524,
+   "bytes": 432184,
    "show": [
     "weapon1"
    ],
@@ -60,7 +60,7 @@
    "face": true,
    "duration": 4.4,
    "loop": false,
-   "bytes": 168752,
+   "bytes": 247924,
    "hide": [
     "weapon1"
    ]
@@ -71,7 +71,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 82108
+   "bytes": 161016
   }
  ]
 }

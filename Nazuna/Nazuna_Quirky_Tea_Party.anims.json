@@ -7,7 +7,7 @@
    "face": true,
    "duration": 7.1667,
    "loop": false,
-   "bytes": 558072,
+   "bytes": 750304,
    "hide": [
     "penguin_face1",
     "penguin_face2",
@@ -23,7 +23,7 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 142592,
+   "bytes": 311676,
    "hide": [
     "penguin_face1",
     "penguin_face2",
@@ -39,7 +39,7 @@
    "face": true,
    "duration": 4.0333,
    "loop": false,
-   "bytes": 678776,
+   "bytes": 855380,
    "show": [
     "penguin_face1",
     "penguin_face2",
@@ -57,7 +57,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": false,
-   "bytes": 436776,
+   "bytes": 629196,
    "show": [
     "penguin_face1",
     "penguin_face2",
@@ -75,7 +75,7 @@
    "face": true,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 176760,
+   "bytes": 368484,
    "hide": [
     "weapon1"
    ]

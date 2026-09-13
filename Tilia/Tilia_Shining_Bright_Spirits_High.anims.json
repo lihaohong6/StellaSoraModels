@@ -7,7 +7,7 @@
    "face": true,
    "duration": 6.0,
    "loop": true,
-   "bytes": 248504
+   "bytes": 312176
   },
   {
    "name": "ReadyLoop",
@@ -15,7 +15,7 @@
    "face": true,
    "duration": 3.0,
    "loop": false,
-   "bytes": 66900
+   "bytes": 132448
   },
   {
    "name": "Timeline",
@@ -23,7 +23,7 @@
    "face": true,
    "duration": 4.1833,
    "loop": false,
-   "bytes": 197428
+   "bytes": 259436
   },
   {
    "name": "Victory",
@@ -31,7 +31,7 @@
    "face": true,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 128120
+   "bytes": 191032
   },
   {
    "name": "VictoryLoop",
@@ -39,7 +39,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 74936
+   "bytes": 138112
   }
  ]
 }

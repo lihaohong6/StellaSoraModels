@@ -7,7 +7,7 @@
    "face": false,
    "duration": 5.5,
    "loop": false,
-   "bytes": 379068
+   "bytes": 501848
   },
   {
    "name": "Attack_1",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 2.5333,
    "loop": false,
-   "bytes": 169452
+   "bytes": 291236
   },
   {
    "name": "Attack_2",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 2.2667,
    "loop": false,
-   "bytes": 180560
+   "bytes": 303808
   },
   {
    "name": "Attack_3",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 3.8333,
    "loop": false,
-   "bytes": 202868
+   "bytes": 325808
   },
   {
    "name": "Attack_4",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 2.8667,
    "loop": false,
-   "bytes": 201468
+   "bytes": 324192
   },
   {
    "name": "Dazed",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 116960
+   "bytes": 235940
   },
   {
    "name": "Death",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 293256
+   "bytes": 417144
   },
   {
    "name": "Dodge",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 236356
+   "bytes": 358652
   },
   {
    "name": "Dodge1",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 236632
+   "bytes": 355804
   },
   {
    "name": "HurtA1",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 155836
+   "bytes": 279904
   },
   {
    "name": "HurtA2",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 136752
+   "bytes": 253156
   },
   {
    "name": "HurtB",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 171580
+   "bytes": 298096
   },
   {
    "name": "Idle",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 94684
+   "bytes": 223008
   },
   {
    "name": "Out01",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 169596
+   "bytes": 298420
   },
   {
    "name": "Ready",
@@ -119,7 +119,7 @@
    "face": true,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 301100
+   "bytes": 419760
   },
   {
    "name": "ReadyLoop",
@@ -127,7 +127,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 114616
+   "bytes": 232540
   },
   {
    "name": "Run",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 119592
+   "bytes": 214144
   },
   {
    "name": "Rush",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 136816
+   "bytes": 257608
   },
   {
    "name": "RushStop",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 1.4667,
    "loop": false,
-   "bytes": 170920
+   "bytes": 290808
   },
   {
    "name": "Skill_Main_CallUAV",
@@ -159,7 +159,7 @@
    "face": false,
    "duration": 2.6667,
    "loop": false,
-   "bytes": 299332
+   "bytes": 418884
   },
   {
    "name": "Skill_Sup_Surf_White_End",
@@ -167,7 +167,7 @@
    "face": false,
    "duration": 1.0333,
    "loop": false,
-   "bytes": 131484
+   "bytes": 254552
   },
   {
    "name": "Skill_Support_Surf_Black",
@@ -175,7 +175,7 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 126256
+   "bytes": 252348
   },
   {
    "name": "Skill_Support_Surf_White",
@@ -183,135 +183,7 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 138472
-  },
-  {
-   "name": "Summon_Black_Attack_BlinkIn",
-   "file": "Shia/Shia_anims/Summon_Black_Attack_BlinkIn.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 1956
-  },
-  {
-   "name": "Summon_Black_Attack_BlinkOut",
-   "file": "Shia/Shia_anims/Summon_Black_Attack_BlinkOut.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 1924
-  },
-  {
-   "name": "Summon_Black_Ready",
-   "file": "Shia/Shia_anims/Summon_Black_Ready.glb",
-   "face": false,
-   "duration": 5.3333,
-   "loop": false,
-   "bytes": 752
-  },
-  {
-   "name": "Summon_Black_ReadyLoop",
-   "file": "Shia/Shia_anims/Summon_Black_ReadyLoop.glb",
-   "face": false,
-   "duration": 4.0,
-   "loop": true,
-   "bytes": 744
-  },
-  {
-   "name": "Summon_Black_Skill_Main_BlinkIn",
-   "file": "Shia/Shia_anims/Summon_Black_Skill_Main_BlinkIn.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 1960
-  },
-  {
-   "name": "Summon_Black_Skill_Main_BlinkOut",
-   "file": "Shia/Shia_anims/Summon_Black_Skill_Main_BlinkOut.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 1928
-  },
-  {
-   "name": "Summon_Black_Skill_Sup_BlinkIn",
-   "file": "Shia/Shia_anims/Summon_Black_Skill_Sup_BlinkIn.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 1960
-  },
-  {
-   "name": "Summon_Black_Skill_Sup_BlinkOut",
-   "file": "Shia/Shia_anims/Summon_Black_Skill_Sup_BlinkOut.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 1928
-  },
-  {
-   "name": "Summon_White_Attack_BlinkIn",
-   "file": "Shia/Shia_anims/Summon_White_Attack_BlinkIn.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 2116
-  },
-  {
-   "name": "Summon_White_Attack_BlinkOut",
-   "file": "Shia/Shia_anims/Summon_White_Attack_BlinkOut.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 2104
-  },
-  {
-   "name": "Summon_White_Ready",
-   "file": "Shia/Shia_anims/Summon_White_Ready.glb",
-   "face": false,
-   "duration": 5.3333,
-   "loop": false,
-   "bytes": 752
-  },
-  {
-   "name": "Summon_White_ReadyLoop",
-   "file": "Shia/Shia_anims/Summon_White_ReadyLoop.glb",
-   "face": false,
-   "duration": 4.0,
-   "loop": true,
-   "bytes": 744
-  },
-  {
-   "name": "Summon_White_Skill_Main_BlinkIn",
-   "file": "Shia/Shia_anims/Summon_White_Skill_Main_BlinkIn.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 2120
-  },
-  {
-   "name": "Summon_White_Skill_Main_BlinkOut",
-   "file": "Shia/Shia_anims/Summon_White_Skill_Main_BlinkOut.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 2108
-  },
-  {
-   "name": "Summon_White_Skill_Sup_BlinkIn",
-   "file": "Shia/Shia_anims/Summon_White_Skill_Sup_BlinkIn.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 2120
-  },
-  {
-   "name": "Summon_White_Skill_Sup_BlinkOut",
-   "file": "Shia/Shia_anims/Summon_White_Skill_Sup_BlinkOut.glb",
-   "face": false,
-   "duration": 0.5,
-   "loop": false,
-   "bytes": 2104
+   "bytes": 263172
   },
   {
    "name": "Timeline",
@@ -319,7 +191,7 @@
    "face": true,
    "duration": 4.6167,
    "loop": false,
-   "bytes": 365120
+   "bytes": 477976
   },
   {
    "name": "Ultra_End",
@@ -327,7 +199,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 164580
+   "bytes": 287812
   },
   {
    "name": "Ultra_Loop",
@@ -335,7 +207,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 80008
+   "bytes": 208700
   },
   {
    "name": "Ultra_Stat_NoTL",
@@ -343,7 +215,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 203108
+   "bytes": 327280
   },
   {
    "name": "Victory",
@@ -351,7 +223,7 @@
    "face": true,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 222316,
+   "bytes": 322172,
    "hide": [
     "surfboard"
    ]
@@ -362,7 +234,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 110340,
+   "bytes": 209000,
    "hide": [
     "surfboard"
    ]
@@ -373,7 +245,7 @@
    "face": false,
    "duration": 1.8667,
    "loop": true,
-   "bytes": 124360
+   "bytes": 248416
   }
  ]
 }

@@ -7,7 +7,7 @@
    "face": true,
    "duration": 3.6667,
    "loop": false,
-   "bytes": 181988,
+   "bytes": 319828,
    "show": [
     "face_07sp"
    ],
@@ -24,7 +24,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 119700,
+   "bytes": 257856,
    "show": [
     "face_07sp"
    ],
@@ -41,7 +41,7 @@
    "face": true,
    "duration": 4.55,
    "loop": false,
-   "bytes": 387464,
+   "bytes": 509360,
    "show": [
     "face_07sp"
    ],
@@ -58,7 +58,7 @@
    "face": true,
    "duration": 4.0,
    "loop": false,
-   "bytes": 135820,
+   "bytes": 272524,
    "show": [
     "cup",
     "daojia",
@@ -76,7 +76,7 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 91220,
+   "bytes": 229668,
    "hide": [
     "weapon1"
    ]

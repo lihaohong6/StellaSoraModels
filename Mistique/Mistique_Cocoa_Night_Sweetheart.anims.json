@@ -7,7 +7,7 @@
    "face": true,
    "duration": 6.2333,
    "loop": false,
-   "bytes": 354196,
+   "bytes": 445964,
    "hide": [
     "Camera"
    ]
@@ -18,7 +18,7 @@
    "face": true,
    "duration": 3.2,
    "loop": true,
-   "bytes": 100188,
+   "bytes": 194556,
    "hide": [
     "Camera"
    ]
@@ -29,7 +29,7 @@
    "face": true,
    "duration": 3.3667,
    "loop": false,
-   "bytes": 338956,
+   "bytes": 507760,
    "hide": [
     "Camera"
    ]
@@ -40,7 +40,7 @@
    "face": true,
    "duration": 4.1833,
    "loop": false,
-   "bytes": 174680,
+   "bytes": 343624,
    "show": [
     "Camera"
    ]
@@ -51,7 +51,7 @@
    "face": true,
    "duration": 2.5333,
    "loop": true,
-   "bytes": 94840
+   "bytes": 228948
   }
  ]
 }

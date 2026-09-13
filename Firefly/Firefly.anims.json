@@ -7,7 +7,7 @@
    "face": true,
    "duration": 7.0,
    "loop": false,
-   "bytes": 225428,
+   "bytes": 300056,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -23,7 +23,7 @@
    "face": true,
    "duration": 6.6667,
    "loop": false,
-   "bytes": 193172,
+   "bytes": 287584,
    "hide": [
     "weapon_downL_light",
     "weapon_downR_light",
@@ -41,7 +41,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 139268,
+   "bytes": 249972,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -64,7 +64,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 127248,
+   "bytes": 237112,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 1.9333,
    "loop": false,
-   "bytes": 165132,
+   "bytes": 274552,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -110,7 +110,7 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 167868,
+   "bytes": 279400,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -129,7 +129,7 @@
    "face": false,
    "duration": 0.7667,
    "loop": false,
-   "bytes": 89032,
+   "bytes": 173548,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -149,7 +149,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 81628,
+   "bytes": 164648,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -169,7 +169,7 @@
    "face": false,
    "duration": 0.1,
    "loop": false,
-   "bytes": 53040,
+   "bytes": 136144,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -189,7 +189,7 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 177176,
+   "bytes": 278556,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -209,7 +209,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 124284,
+   "bytes": 226464,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -229,7 +229,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 116096,
+   "bytes": 216660,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -249,7 +249,7 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 138804,
+   "bytes": 239380,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -269,7 +269,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 92496,
+   "bytes": 195584,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -289,7 +289,7 @@
    "face": false,
    "duration": 0.4667,
    "loop": false,
-   "bytes": 72672,
+   "bytes": 175296,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -309,7 +309,7 @@
    "face": false,
    "duration": 0.4667,
    "loop": false,
-   "bytes": 70168,
+   "bytes": 172212,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -329,7 +329,7 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 74776,
+   "bytes": 177708,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -349,7 +349,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 76840,
+   "bytes": 179524,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -369,7 +369,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 104580,
+   "bytes": 206080,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -389,7 +389,7 @@
    "face": false,
    "duration": 2.6333,
    "loop": false,
-   "bytes": 148940,
+   "bytes": 241820,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -409,7 +409,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 81364,
+   "bytes": 164384,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -429,7 +429,7 @@
    "face": false,
    "duration": 0.1,
    "loop": false,
-   "bytes": 53400,
+   "bytes": 136528,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -449,7 +449,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 87640,
+   "bytes": 189916,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -469,7 +469,7 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 179372,
+   "bytes": 282196,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -489,7 +489,7 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 113700,
+   "bytes": 215872,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -509,7 +509,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 120560,
+   "bytes": 222788,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -529,7 +529,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 116712,
+   "bytes": 218788,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -549,7 +549,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 105316,
+   "bytes": 211008,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -569,7 +569,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 91272,
+   "bytes": 193804,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -589,7 +589,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 86552,
+   "bytes": 191400,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -609,7 +609,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 91360,
+   "bytes": 195932,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -629,7 +629,7 @@
    "face": false,
    "duration": 0.4,
    "loop": false,
-   "bytes": 66352,
+   "bytes": 169492,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -649,7 +649,7 @@
    "face": false,
    "duration": 0.9,
    "loop": true,
-   "bytes": 107524,
+   "bytes": 210112,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -669,7 +669,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 87388,
+   "bytes": 191960,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -689,7 +689,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 77864,
+   "bytes": 190240,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -712,7 +712,7 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 168364,
+   "bytes": 280672,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -735,7 +735,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 117484,
+   "bytes": 229664,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -758,7 +758,7 @@
    "face": false,
    "duration": 2.3,
    "loop": false,
-   "bytes": 209848,
+   "bytes": 318568,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -777,7 +777,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 143472,
+   "bytes": 252324,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -796,7 +796,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 93256,
+   "bytes": 214304,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -819,7 +819,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 111848,
+   "bytes": 223860,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -842,7 +842,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 96520,
+   "bytes": 211572,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -865,7 +865,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 81448,
+   "bytes": 194192,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -888,7 +888,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 125628,
+   "bytes": 214296,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -912,7 +912,7 @@
    "face": true,
    "duration": 4.4333,
    "loop": false,
-   "bytes": 168564,
+   "bytes": 282380,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -937,7 +937,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 85384,
+   "bytes": 200924,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -962,7 +962,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 81520,
+   "bytes": 191924,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -985,7 +985,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 81880,
+   "bytes": 196156,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1008,7 +1008,7 @@
    "face": false,
    "duration": 0.9,
    "loop": true,
-   "bytes": 100796,
+   "bytes": 212504,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1031,7 +1031,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 162904,
+   "bytes": 261268,
    "hide": [
     "weapon_light_circle_2",
     "weapon_light_circle_3",
@@ -1044,7 +1044,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 82752,
+   "bytes": 179312,
    "hide": [
     "weapon_light_circle_2",
     "weapon_light_circle_3",
@@ -1059,7 +1059,7 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 317260,
+   "bytes": 429304,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1093,7 +1093,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 119448,
+   "bytes": 230168,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1127,7 +1127,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 155104,
+   "bytes": 265648,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1161,7 +1161,7 @@
    "face": false,
    "duration": 1.4333,
    "loop": false,
-   "bytes": 159720,
+   "bytes": 270108,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1195,7 +1195,7 @@
    "face": false,
    "duration": 3.6,
    "loop": false,
-   "bytes": 204888,
+   "bytes": 315352,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1229,7 +1229,7 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 4864
+   "bytes": 6496
   },
   {
    "name": "Support_Skill_Blade_Idle",
@@ -1237,7 +1237,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 82584,
+   "bytes": 195424,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1271,7 +1271,7 @@
    "face": false,
    "duration": 4.1667,
    "loop": false,
-   "bytes": 239672,
+   "bytes": 329696,
    "hide": [
     "weapon_downL",
     "weapon_downL_light",
@@ -1293,7 +1293,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": true,
-   "bytes": 87060,
+   "bytes": 198708,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1327,7 +1327,7 @@
    "face": false,
    "duration": 0.75,
    "loop": false,
-   "bytes": 197660,
+   "bytes": 298860,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1348,7 +1348,7 @@
    "face": false,
    "duration": 1.25,
    "loop": true,
-   "bytes": 131924,
+   "bytes": 234564,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1370,7 +1370,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 200884,
+   "bytes": 303180,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1392,7 +1392,7 @@
    "face": false,
    "duration": 4.0167,
    "loop": false,
-   "bytes": 284184,
+   "bytes": 363372,
    "hide": [
     "weapon_downL_light",
     "weapon_downR_light",
@@ -1409,7 +1409,7 @@
    "face": false,
    "duration": 2.7333,
    "loop": false,
-   "bytes": 192996,
+   "bytes": 287800,
    "hide": [
     "weapon_downL_light",
     "weapon_downR_light",
@@ -1428,7 +1428,7 @@
    "face": false,
    "duration": 2.55,
    "loop": false,
-   "bytes": 182836,
+   "bytes": 262788,
    "hide": [
     "weapon_downL_light",
     "weapon_downR_light",
@@ -1447,7 +1447,7 @@
    "face": true,
    "duration": 3.7333,
    "loop": false,
-   "bytes": 221172,
+   "bytes": 315324,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1483,7 +1483,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 83036,
+   "bytes": 183052,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1517,7 +1517,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 81652,
+   "bytes": 192060,
    "hide": [
     "weapon_centre",
     "weapon_centre_light_1",
@@ -1540,7 +1540,7 @@
    "face": false,
    "duration": 1.1,
    "loop": false,
-   "bytes": 4572
+   "bytes": 6200
   }
  ]
 }

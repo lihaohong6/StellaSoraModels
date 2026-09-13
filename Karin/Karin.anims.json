@@ -2,24 +2,12 @@
  "id": "15701",
  "clips": [
   {
-   "name": "15701111_FishOverlord_JumpAtk",
-   "file": "Karin/Karin_anims/15701111_FishOverlord_JumpAtk.glb",
-   "face": false,
-   "duration": 0.8333,
-   "loop": false,
-   "bytes": 764,
-   "hide": [
-    "cuttlefish",
-    "shark"
-   ]
-  },
-  {
    "name": "Aim",
    "file": "Karin/Karin_anims/Aim.glb",
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 90300,
+   "bytes": 201000,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -32,7 +20,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 66768,
+   "bytes": 195556,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -45,7 +33,7 @@
    "face": false,
    "duration": 2.5333,
    "loop": false,
-   "bytes": 533940,
+   "bytes": 631252,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -58,7 +46,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 109132,
+   "bytes": 230100,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -71,7 +59,7 @@
    "face": false,
    "duration": 0.6333,
    "loop": false,
-   "bytes": 94648,
+   "bytes": 169568,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -84,7 +72,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 86952,
+   "bytes": 215160,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -97,7 +85,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 124604,
+   "bytes": 252596,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -110,7 +98,7 @@
    "face": false,
    "duration": 4.0,
    "loop": true,
-   "bytes": 74052,
+   "bytes": 179968,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -123,7 +111,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 127660,
+   "bytes": 191944,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -136,7 +124,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 124048,
+   "bytes": 244024,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -149,7 +137,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 115692,
+   "bytes": 238176,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -162,7 +150,7 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 107352,
+   "bytes": 203484,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -175,7 +163,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 107500,
+   "bytes": 208208,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -188,7 +176,7 @@
    "face": true,
    "duration": 5.55,
    "loop": false,
-   "bytes": 207936,
+   "bytes": 342156,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -201,7 +189,7 @@
    "face": true,
    "duration": 3.1167,
    "loop": true,
-   "bytes": 71816,
+   "bytes": 206352,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -214,7 +202,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 87180,
+   "bytes": 125040,
    "hide": [
     "cuttlefish",
     "shark"
@@ -226,7 +214,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 69528,
+   "bytes": 120184,
    "hide": [
     "cuttlefish",
     "shark"
@@ -238,7 +226,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 106040,
+   "bytes": 199088,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -251,7 +239,7 @@
    "face": false,
    "duration": 2.1333,
    "loop": false,
-   "bytes": 211996,
+   "bytes": 309800,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -264,7 +252,7 @@
    "face": false,
    "duration": 6.0,
    "loop": false,
-   "bytes": 651568,
+   "bytes": 773324,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -277,7 +265,7 @@
    "face": true,
    "duration": 5.5,
    "loop": false,
-   "bytes": 385356,
+   "bytes": 503880,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -286,24 +274,12 @@
    ]
   },
   {
-   "name": "Timeline_Yubawang",
-   "file": "Karin/Karin_anims/Timeline_Yubawang.glb",
-   "face": false,
-   "duration": 5.5,
-   "loop": false,
-   "bytes": 26696,
-   "hide": [
-    "cuttlefish",
-    "shark"
-   ]
-  },
-  {
    "name": "Ultra_NoTL",
    "file": "Karin/Karin_anims/Ultra_NoTL.glb",
    "face": false,
    "duration": 6.8,
    "loop": false,
-   "bytes": 354588,
+   "bytes": 476036,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -316,7 +292,7 @@
    "face": false,
    "duration": 5.3,
    "loop": false,
-   "bytes": 317744,
+   "bytes": 440272,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -329,7 +305,7 @@
    "face": true,
    "duration": 3.9667,
    "loop": false,
-   "bytes": 140208,
+   "bytes": 275296,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -343,7 +319,7 @@
    "face": true,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 55204,
+   "bytes": 192784,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -357,7 +333,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 72956,
+   "bytes": 105036,
    "hide": [
     "cuttlefish",
     "shark"
@@ -369,7 +345,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 68292,
+   "bytes": 181336,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -382,7 +358,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 68536,
+   "bytes": 181580,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -395,7 +371,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 68268,
+   "bytes": 181308,
    "hide": [
     "blowfish",
     "cuttlefish",
@@ -408,7 +384,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 68516,
+   "bytes": 181552,
    "hide": [
     "blowfish",
     "cuttlefish",

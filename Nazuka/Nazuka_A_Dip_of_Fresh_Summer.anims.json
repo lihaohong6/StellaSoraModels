@@ -7,7 +7,7 @@
    "face": true,
    "duration": 5.7333,
    "loop": false,
-   "bytes": 302028,
+   "bytes": 387168,
    "show": [
     "face11_sp01"
    ]
@@ -18,7 +18,7 @@
    "face": true,
    "duration": 3.6,
    "loop": true,
-   "bytes": 135336,
+   "bytes": 223452,
    "show": [
     "face11_sp01"
    ]
@@ -29,7 +29,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": false,
-   "bytes": 395936,
+   "bytes": 504540,
    "show": [
     "face11_sp01"
    ]
@@ -40,7 +40,7 @@
    "face": true,
    "duration": 5.7333,
    "loop": false,
-   "bytes": 253252,
+   "bytes": 402356,
    "show": [
     "face11_sp01"
    ]
@@ -51,7 +51,7 @@
    "face": true,
    "duration": 2.65,
    "loop": true,
-   "bytes": 106376
+   "bytes": 206552
   }
  ]
 }

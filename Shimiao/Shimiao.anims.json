@@ -7,7 +7,7 @@
    "face": false,
    "duration": 5.8333,
    "loop": false,
-   "bytes": 127352
+   "bytes": 167248
   },
   {
    "name": "Attack_1",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 2.2333,
    "loop": false,
-   "bytes": 187784
+   "bytes": 258944
   },
   {
    "name": "Attack_2",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 2.2,
    "loop": false,
-   "bytes": 187444
+   "bytes": 255360
   },
   {
    "name": "Attack_3",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 2.9667,
    "loop": false,
-   "bytes": 199080
+   "bytes": 267220
   },
   {
    "name": "Attack_3_Ex",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 3.3333,
    "loop": false,
-   "bytes": 206588
+   "bytes": 271852
   },
   {
    "name": "B1_Skill_AzureSlash_S2",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 3.5667,
    "loop": false,
-   "bytes": 102672
+   "bytes": 142560
   },
   {
    "name": "B2_Skill_Prepare",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 1.7333,
    "loop": false,
-   "bytes": 61260
+   "bytes": 101800
   },
   {
    "name": "Dazed",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 62896
+   "bytes": 138344
   },
   {
    "name": "Die",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 123476
+   "bytes": 195560
   },
   {
    "name": "Dodge",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 101220
+   "bytes": 173916
   },
   {
    "name": "HurtA1",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 112904
+   "bytes": 181316
   },
   {
    "name": "HurtA2",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 114712
+   "bytes": 180828
   },
   {
    "name": "HurtB",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 104068
+   "bytes": 173864
   },
   {
    "name": "Idle",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 63820
+   "bytes": 137720
   },
   {
    "name": "Out01",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 1.5667,
    "loop": false,
-   "bytes": 113184
+   "bytes": 181304
   },
   {
    "name": "Ready",
@@ -127,7 +127,7 @@
    "face": true,
    "duration": 3.5667,
    "loop": false,
-   "bytes": 162724
+   "bytes": 232888
   },
   {
    "name": "ReadyLoop",
@@ -135,7 +135,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 86960
+   "bytes": 155976
   },
   {
    "name": "Run",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 98836
+   "bytes": 170124
   },
   {
    "name": "Rush",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 98168
+   "bytes": 166912
   },
   {
    "name": "RushStop",
@@ -159,7 +159,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 109116
+   "bytes": 172872
   },
   {
    "name": "Skill_Main_AzureSlash_S1",
@@ -167,7 +167,7 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 117676
+   "bytes": 190796
   },
   {
    "name": "Skill_Main_AzureSlash_S2_1",
@@ -175,7 +175,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 120920
+   "bytes": 190168
   },
   {
    "name": "Skill_Main_AzureSlash_S2_2",
@@ -183,7 +183,7 @@
    "face": false,
    "duration": 1.6,
    "loop": false,
-   "bytes": 138392
+   "bytes": 206424
   },
   {
    "name": "Skill_Main_AzureSlash_S2_P02",
@@ -191,7 +191,7 @@
    "face": false,
    "duration": 3.1,
    "loop": false,
-   "bytes": 170888
+   "bytes": 240836
   },
   {
    "name": "Skill_Support_Prepare",
@@ -199,7 +199,7 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 103952,
+   "bytes": 170468,
    "hide": [
     "weapon"
    ]
@@ -210,7 +210,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68208,
+   "bytes": 139080,
    "hide": [
     "weapon"
    ]
@@ -221,7 +221,7 @@
    "face": false,
    "duration": 1.6,
    "loop": true,
-   "bytes": 67972,
+   "bytes": 138336,
    "hide": [
     "weapon"
    ]
@@ -232,7 +232,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68388,
+   "bytes": 139000,
    "hide": [
     "weapon"
    ]
@@ -243,7 +243,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 64532,
+   "bytes": 132444,
    "hide": [
     "weapon"
    ]
@@ -254,7 +254,7 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 150236,
+   "bytes": 222740,
    "hide": [
     "weapon"
    ]
@@ -265,7 +265,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 109444,
+   "bytes": 179808,
    "hide": [
     "weapon"
    ]
@@ -276,7 +276,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 99204
+   "bytes": 164888
   },
   {
    "name": "Ultra_HurtA1",
@@ -284,7 +284,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 84656,
+   "bytes": 155580,
    "hide": [
     "weapon"
    ]
@@ -295,7 +295,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 92104,
+   "bytes": 161664,
    "hide": [
     "weapon"
    ]
@@ -306,7 +306,7 @@
    "face": false,
    "duration": 0.7333,
    "loop": false,
-   "bytes": 96628,
+   "bytes": 159132,
    "hide": [
     "weapon"
    ]
@@ -317,7 +317,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 68124,
+   "bytes": 139656,
    "hide": [
     "weapon"
    ]
@@ -328,7 +328,7 @@
    "face": false,
    "duration": 2.9333,
    "loop": false,
-   "bytes": 208300
+   "bytes": 266124
   },
   {
    "name": "Ultra_Run",
@@ -336,7 +336,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 69764,
+   "bytes": 139972,
    "hide": [
     "weapon"
    ]
@@ -347,7 +347,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 70808,
+   "bytes": 141480,
    "hide": [
     "weapon"
    ]
@@ -358,7 +358,7 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 84556,
+   "bytes": 151888,
    "hide": [
     "weapon"
    ]
@@ -369,7 +369,7 @@
    "face": false,
    "duration": 3.0,
    "loop": false,
-   "bytes": 140036,
+   "bytes": 211984,
    "hide": [
     "weapon"
    ]
@@ -380,7 +380,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 110104,
+   "bytes": 180116,
    "hide": [
     "weapon"
    ]
@@ -391,7 +391,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 110108,
+   "bytes": 180120,
    "hide": [
     "weapon"
    ]
@@ -402,7 +402,7 @@
    "face": false,
    "duration": 2.2333,
    "loop": false,
-   "bytes": 113896,
+   "bytes": 187208,
    "hide": [
     "weapon"
    ]
@@ -413,7 +413,7 @@
    "face": false,
    "duration": 2.0,
    "loop": false,
-   "bytes": 135488,
+   "bytes": 202540,
    "hide": [
     "weapon"
    ]
@@ -424,7 +424,7 @@
    "face": true,
    "duration": 2.4333,
    "loop": false,
-   "bytes": 133784
+   "bytes": 197004
   },
   {
    "name": "VictoryLoop",
@@ -432,7 +432,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": true,
-   "bytes": 109656
+   "bytes": 171648
   },
   {
    "name": "Walk",
@@ -440,7 +440,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": true,
-   "bytes": 75608
+   "bytes": 151192
   }
  ]
 }

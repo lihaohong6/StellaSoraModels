@@ -7,7 +7,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 74556
+   "bytes": 148036
   },
   {
    "name": "Attack_1",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 111948
+   "bytes": 181976
   },
   {
    "name": "Attack_2",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 1.5333,
    "loop": false,
-   "bytes": 122776
+   "bytes": 193772
   },
   {
    "name": "Attack_3",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 126760
+   "bytes": 197244
   },
   {
    "name": "Attack_A",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 124384
+   "bytes": 196236
   },
   {
    "name": "Attack_B",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 121096
+   "bytes": 193724
   },
   {
    "name": "Attack_C",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 141752
+   "bytes": 212812
   },
   {
    "name": "B1_Skill",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 2.7667,
    "loop": false,
-   "bytes": 147752
+   "bytes": 218344
   },
   {
    "name": "B1_Skill_P02",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 2.0333,
    "loop": false,
-   "bytes": 114052
+   "bytes": 185004
   },
   {
    "name": "B1_Skill_P04",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 2.7667,
    "loop": false,
-   "bytes": 156628
+   "bytes": 226848
   },
   {
    "name": "B1_Skill_P04_Born",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 2.2,
    "loop": false,
-   "bytes": 113616
+   "bytes": 186084
   },
   {
    "name": "B2_Skill",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 2.2333,
    "loop": false,
-   "bytes": 146236
+   "bytes": 220000
   },
   {
    "name": "Dazed",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 3.0,
    "loop": true,
-   "bytes": 105300
+   "bytes": 168008
   },
   {
    "name": "Die",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": false,
-   "bytes": 143052
+   "bytes": 214776
   },
   {
    "name": "Dodge",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 0.8667,
    "loop": false,
-   "bytes": 126752
+   "bytes": 198856
   },
   {
    "name": "HurtA1",
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 87960
+   "bytes": 162008
   },
   {
    "name": "HurtA2",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 100792
+   "bytes": 175132
   },
   {
    "name": "HurtB",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 1.0333,
    "loop": false,
-   "bytes": 110988
+   "bytes": 184620
   },
   {
    "name": "Idle",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 76064
+   "bytes": 149404
   },
   {
    "name": "Out01",
@@ -159,23 +159,7 @@
    "face": false,
    "duration": 1.8,
    "loop": false,
-   "bytes": 111992
-  },
-  {
-   "name": "Passive_Box_Born",
-   "file": "Flora/Flora_anims/Passive_Box_Born.glb",
-   "face": false,
-   "duration": 1.6667,
-   "loop": false,
-   "bytes": 760
-  },
-  {
-   "name": "Passive_Box_Idle",
-   "file": "Flora/Flora_anims/Passive_Box_Idle.glb",
-   "face": false,
-   "duration": 1.0,
-   "loop": true,
-   "bytes": 760
+   "bytes": 184540
   },
   {
    "name": "Phoenix_Ultra",
@@ -183,7 +167,7 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 3116
+   "bytes": 4972
   },
   {
    "name": "Phoenix_Ultra_Down",
@@ -191,7 +175,7 @@
    "face": false,
    "duration": 0.4,
    "loop": false,
-   "bytes": 2700
+   "bytes": 4556
   },
   {
    "name": "Phoenix_Ultra_End",
@@ -199,7 +183,7 @@
    "face": false,
    "duration": 0.3667,
    "loop": false,
-   "bytes": 1392
+   "bytes": 3240
   },
   {
    "name": "Ready",
@@ -207,7 +191,7 @@
    "face": true,
    "duration": 7.6333,
    "loop": false,
-   "bytes": 283028
+   "bytes": 363132
   },
   {
    "name": "ReadyLoop",
@@ -215,7 +199,7 @@
    "face": true,
    "duration": 3.2,
    "loop": true,
-   "bytes": 69372
+   "bytes": 149672
   },
   {
    "name": "Run",
@@ -223,7 +207,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 88156
+   "bytes": 150232
   },
   {
    "name": "Rush",
@@ -231,7 +215,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 79928
+   "bytes": 137044
   },
   {
    "name": "RushStop",
@@ -239,7 +223,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 107156
+   "bytes": 176236
   },
   {
    "name": "Ultra_NoTL",
@@ -247,7 +231,7 @@
    "face": false,
    "duration": 3.7667,
    "loop": false,
-   "bytes": 221928
+   "bytes": 294088
   },
   {
    "name": "Ultra_TL",
@@ -255,7 +239,7 @@
    "face": false,
    "duration": 2.2667,
    "loop": false,
-   "bytes": 134360
+   "bytes": 206500
   },
   {
    "name": "Victory",
@@ -263,7 +247,7 @@
    "face": true,
    "duration": 5.7667,
    "loop": false,
-   "bytes": 140288,
+   "bytes": 223484,
    "hide": [
     "weapon"
    ]
@@ -274,7 +258,7 @@
    "face": true,
    "duration": 3.2667,
    "loop": true,
-   "bytes": 61200,
+   "bytes": 146552,
    "hide": [
     "weapon"
    ]
@@ -285,7 +269,7 @@
    "face": false,
    "duration": 1.1333,
    "loop": true,
-   "bytes": 77596
+   "bytes": 141528
   },
   {
    "name": "Walk_Backward",
@@ -293,7 +277,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 77092
+   "bytes": 149176
   },
   {
    "name": "Walk_Forward",
@@ -301,7 +285,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 80396
+   "bytes": 152496
   },
   {
    "name": "Walk_Left",
@@ -309,7 +293,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 75040
+   "bytes": 147388
   },
   {
    "name": "Walk_Right",
@@ -317,7 +301,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 75984
+   "bytes": 148576
   },
   {
    "name": "timeline",
@@ -325,7 +309,7 @@
    "face": true,
    "duration": 3.9667,
    "loop": false,
-   "bytes": 197228
+   "bytes": 263736
   },
   {
    "name": "timeline_phoenix",
@@ -333,7 +317,7 @@
    "face": false,
    "duration": 3.9667,
    "loop": false,
-   "bytes": 12136
+   "bytes": 13244
   }
  ]
 }

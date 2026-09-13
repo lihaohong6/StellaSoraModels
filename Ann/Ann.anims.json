@@ -7,7 +7,7 @@
    "face": false,
    "duration": 2.8333,
    "loop": false,
-   "bytes": 218568,
+   "bytes": 295284,
    "show": [
     "face03_sp",
     "pet",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 4.6667,
    "loop": false,
-   "bytes": 404732
+   "bytes": 494364
   },
   {
    "name": "Attack_1",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 143120
+   "bytes": 216632
   },
   {
    "name": "Attack_2",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 155216
+   "bytes": 257812
   },
   {
    "name": "Attack_3",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 1.2,
    "loop": false,
-   "bytes": 86116
+   "bytes": 112112
   },
   {
    "name": "Attack_3_B9",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 189436
+   "bytes": 259388
   },
   {
    "name": "Attack_4",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 1.7,
    "loop": false,
-   "bytes": 231916
+   "bytes": 332516
   },
   {
    "name": "B1_Skill_WindWall",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 165684
+   "bytes": 249708
   },
   {
    "name": "B2_Skill_Balloonfish",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 1.5,
    "loop": false,
-   "bytes": 144784
+   "bytes": 210888
   },
   {
    "name": "Dazed",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 76096
+   "bytes": 139124
   },
   {
    "name": "Dead",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 3.3333,
    "loop": false,
-   "bytes": 187096
+   "bytes": 261984
   },
   {
    "name": "Dodge",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 137240
+   "bytes": 201540
   },
   {
    "name": "DodgeUlti",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 0.9667,
    "loop": false,
-   "bytes": 127860
+   "bytes": 204596
   },
   {
    "name": "HurtA1",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 94412
+   "bytes": 172328
   },
   {
    "name": "HurtA2",
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 93884
+   "bytes": 167744
   },
   {
    "name": "HurtB",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 0.7,
    "loop": false,
-   "bytes": 119836
+   "bytes": 195660
   },
   {
    "name": "Idle",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 70972
+   "bytes": 151068
   },
   {
    "name": "Out01",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 1.1333,
    "loop": false,
-   "bytes": 117288
+   "bytes": 188280
   },
   {
    "name": "Ready",
@@ -159,7 +159,7 @@
    "face": true,
    "duration": 5.1333,
    "loop": false,
-   "bytes": 230480,
+   "bytes": 317336,
    "show": [
     "face03_sp",
     "pet"
@@ -175,7 +175,7 @@
    "face": true,
    "duration": 3.8667,
    "loop": true,
-   "bytes": 46116,
+   "bytes": 126244,
    "show": [
     "face03_sp",
     "pet"
@@ -191,7 +191,7 @@
    "face": false,
    "duration": 0.5333,
    "loop": true,
-   "bytes": 88732
+   "bytes": 150512
   },
   {
    "name": "Rush",
@@ -199,7 +199,7 @@
    "face": false,
    "duration": 0.4667,
    "loop": true,
-   "bytes": 97036
+   "bytes": 156992
   },
   {
    "name": "RushStop",
@@ -207,7 +207,7 @@
    "face": false,
    "duration": 1.2667,
    "loop": false,
-   "bytes": 133008
+   "bytes": 203236
   },
   {
    "name": "Standby",
@@ -215,7 +215,7 @@
    "face": false,
    "duration": 1.5,
    "loop": true,
-   "bytes": 61560
+   "bytes": 135172
   },
   {
    "name": "Ultra",
@@ -223,7 +223,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 155844
+   "bytes": 241684
   },
   {
    "name": "Victory",
@@ -231,7 +231,7 @@
    "face": true,
    "duration": 4.3333,
    "loop": false,
-   "bytes": 180836,
+   "bytes": 250136,
    "show": [
     "face03_sp",
     "pet"
@@ -247,7 +247,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 49368,
+   "bytes": 107248,
    "hide": [
     "dog"
    ]
@@ -258,7 +258,7 @@
    "face": false,
    "duration": 1.2,
    "loop": true,
-   "bytes": 95348
+   "bytes": 170356
   }
  ]
 }

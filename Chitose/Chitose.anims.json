@@ -7,7 +7,7 @@
    "face": false,
    "duration": 7.0667,
    "loop": false,
-   "bytes": 1101952
+   "bytes": 1232908
   },
   {
    "name": "Attack_1",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 1.7167,
    "loop": false,
-   "bytes": 324180
+   "bytes": 700984
   },
   {
    "name": "Attack_1_Shadow",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 289400
+   "bytes": 619328
   },
   {
    "name": "Attack_2",
@@ -31,7 +31,7 @@
    "face": false,
    "duration": 1.5667,
    "loop": false,
-   "bytes": 291840
+   "bytes": 422152
   },
   {
    "name": "Attack_2_Shadow",
@@ -39,7 +39,7 @@
    "face": false,
    "duration": 0.9,
    "loop": false,
-   "bytes": 246064
+   "bytes": 379352
   },
   {
    "name": "Attack_3",
@@ -47,7 +47,7 @@
    "face": false,
    "duration": 2.25,
    "loop": false,
-   "bytes": 458692
+   "bytes": 904672
   },
   {
    "name": "Attack_3_Hide",
@@ -55,7 +55,7 @@
    "face": false,
    "duration": 0.1,
    "loop": false,
-   "bytes": 129272
+   "bytes": 393812
   },
   {
    "name": "Attack_3_Shadow",
@@ -63,7 +63,7 @@
    "face": false,
    "duration": 1.55,
    "loop": false,
-   "bytes": 416412
+   "bytes": 835280
   },
   {
    "name": "Attack_4",
@@ -71,7 +71,7 @@
    "face": false,
    "duration": 1.55,
    "loop": false,
-   "bytes": 304084
+   "bytes": 664468
   },
   {
    "name": "Attack_4_Shadow",
@@ -79,7 +79,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 275112
+   "bytes": 616592
   },
   {
    "name": "Attack_5",
@@ -87,7 +87,7 @@
    "face": false,
    "duration": 2.3,
    "loop": false,
-   "bytes": 383948
+   "bytes": 815692
   },
   {
    "name": "Attack_5_Shadow",
@@ -95,7 +95,7 @@
    "face": false,
    "duration": 1.6167,
    "loop": false,
-   "bytes": 351928
+   "bytes": 748232
   },
   {
    "name": "Attack_6",
@@ -103,7 +103,7 @@
    "face": false,
    "duration": 2.55,
    "loop": false,
-   "bytes": 314612
+   "bytes": 676572
   },
   {
    "name": "Attack_6_Shadow",
@@ -111,7 +111,7 @@
    "face": false,
    "duration": 1.4,
    "loop": false,
-   "bytes": 216620
+   "bytes": 525088
   },
   {
    "name": "B1_Shadow",
@@ -119,7 +119,7 @@
    "face": false,
    "duration": 0.6,
    "loop": false,
-   "bytes": 183208
+   "bytes": 467512
   },
   {
    "name": "B1_Shadow",
@@ -127,7 +127,7 @@
    "face": false,
    "duration": 1.0333,
    "loop": false,
-   "bytes": 209128
+   "bytes": 487104
   },
   {
    "name": "B1_Skill",
@@ -135,7 +135,7 @@
    "face": false,
    "duration": 1.9,
    "loop": false,
-   "bytes": 250800
+   "bytes": 570896
   },
   {
    "name": "B1_Skill_2",
@@ -143,7 +143,7 @@
    "face": false,
    "duration": 1.9,
    "loop": false,
-   "bytes": 253892
+   "bytes": 564724
   },
   {
    "name": "B2_Attack",
@@ -151,7 +151,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 137100
+   "bytes": 399748
   },
   {
    "name": "B2_Attack_2",
@@ -159,7 +159,7 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 229068
+   "bytes": 465748
   },
   {
    "name": "B2_Connect",
@@ -167,7 +167,7 @@
    "face": false,
    "duration": 0.7667,
    "loop": false,
-   "bytes": 135840
+   "bytes": 389924
   },
   {
    "name": "B2_Idle",
@@ -175,7 +175,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": true,
-   "bytes": 107948
+   "bytes": 355296
   },
   {
    "name": "B2_Start",
@@ -183,7 +183,7 @@
    "face": false,
    "duration": 0.4667,
    "loop": false,
-   "bytes": 93128
+   "bytes": 347436
   },
   {
    "name": "Daze",
@@ -191,7 +191,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 138124
+   "bytes": 380088
   },
   {
    "name": "Die",
@@ -199,7 +199,7 @@
    "face": false,
    "duration": 2.2,
    "loop": false,
-   "bytes": 260696
+   "bytes": 620316
   },
   {
    "name": "Dodge",
@@ -207,7 +207,7 @@
    "face": false,
    "duration": 1.2333,
    "loop": false,
-   "bytes": 184020
+   "bytes": 479308
   },
   {
    "name": "Hide",
@@ -215,7 +215,7 @@
    "face": false,
    "duration": 0.3167,
    "loop": false,
-   "bytes": 118588
+   "bytes": 384056
   },
   {
    "name": "HurtA1",
@@ -223,7 +223,7 @@
    "face": false,
    "duration": 0.6333,
    "loop": false,
-   "bytes": 134060
+   "bytes": 412340
   },
   {
    "name": "HurtA2",
@@ -231,7 +231,7 @@
    "face": false,
    "duration": 0.6333,
    "loop": false,
-   "bytes": 133268
+   "bytes": 399336
   },
   {
    "name": "HurtB",
@@ -239,7 +239,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 188116
+   "bytes": 491684
   },
   {
    "name": "Idle",
@@ -247,7 +247,7 @@
    "face": false,
    "duration": 2.0,
    "loop": true,
-   "bytes": 121624
+   "bytes": 343960
   },
   {
    "name": "Out01",
@@ -255,7 +255,7 @@
    "face": false,
    "duration": 1.4333,
    "loop": false,
-   "bytes": 159108
+   "bytes": 453864
   },
   {
    "name": "Ready",
@@ -263,7 +263,7 @@
    "face": true,
    "duration": 3.6667,
    "loop": false,
-   "bytes": 187432,
+   "bytes": 322464,
    "show": [
     "face_07sp"
    ],
@@ -281,7 +281,7 @@
    "face": true,
    "duration": 4.0,
    "loop": true,
-   "bytes": 127104,
+   "bytes": 263324,
    "show": [
     "face_07sp"
    ],
@@ -299,7 +299,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 152076
+   "bytes": 405180
   },
   {
    "name": "Rush",
@@ -307,7 +307,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 174404
+   "bytes": 434952
   },
   {
    "name": "RushStop",
@@ -315,23 +315,7 @@
    "face": false,
    "duration": 1.8333,
    "loop": false,
-   "bytes": 189292
-  },
-  {
-   "name": "Snake_Attack_3",
-   "file": "Chitose/Chitose_anims/Snake_Attack_3.glb",
-   "face": false,
-   "duration": 0.95,
-   "loop": false,
-   "bytes": 748
-  },
-  {
-   "name": "Snake_Attack_3a",
-   "file": "Chitose/Chitose_anims/Snake_Attack_3a.glb",
-   "face": false,
-   "duration": 0.6333,
-   "loop": false,
-   "bytes": 752
+   "bytes": 506540
   },
   {
    "name": "Timeline",
@@ -339,7 +323,7 @@
    "face": true,
    "duration": 4.4167,
    "loop": false,
-   "bytes": 423844,
+   "bytes": 540664,
    "show": [
     "face_07sp"
    ],
@@ -357,7 +341,7 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 168920
+   "bytes": 447520
   },
   {
    "name": "Ultra_02",
@@ -365,7 +349,7 @@
    "face": false,
    "duration": 0.8,
    "loop": false,
-   "bytes": 136300
+   "bytes": 353652
   },
   {
    "name": "Ultra_03",
@@ -373,7 +357,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 131272
+   "bytes": 397228
   },
   {
    "name": "Ultra_04",
@@ -381,7 +365,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 125096
+   "bytes": 391096
   },
   {
    "name": "Ultra_05",
@@ -389,7 +373,7 @@
    "face": false,
    "duration": 1.2,
    "loop": false,
-   "bytes": 234988
+   "bytes": 577404
   },
   {
    "name": "Ultra_06",
@@ -397,7 +381,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 149608
+   "bytes": 406248
   },
   {
    "name": "Ultra_07",
@@ -405,7 +389,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": false,
-   "bytes": 134000,
+   "bytes": 371004,
    "hide": [
     "weapon1"
    ]
@@ -416,7 +400,7 @@
    "face": false,
    "duration": 1.1667,
    "loop": false,
-   "bytes": 178164
+   "bytes": 479252
   },
   {
    "name": "Ultra_NoTL",
@@ -424,7 +408,7 @@
    "face": false,
    "duration": 7.2333,
    "loop": false,
-   "bytes": 193068,
+   "bytes": 475640,
    "show": [
     "face_07sp",
     "weapon bag"
@@ -442,7 +426,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 246212
+   "bytes": 584068
   },
   {
    "name": "Ultra_TL",
@@ -450,7 +434,7 @@
    "face": false,
    "duration": 5.3333,
    "loop": false,
-   "bytes": 182720,
+   "bytes": 482376,
    "show": [
     "face_07sp",
     "weapon bag"
@@ -468,7 +452,7 @@
    "face": true,
    "duration": 4.0,
    "loop": false,
-   "bytes": 124772,
+   "bytes": 256372,
    "show": [
     "cup",
     "daojia",
@@ -487,7 +471,7 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 80572,
+   "bytes": 215864,
    "hide": [
     "weapon1"
    ]
@@ -498,7 +482,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 133120
+   "bytes": 370148
   },
   {
    "name": "Soldier_B2_Attack",
@@ -506,7 +490,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": true,
-   "bytes": 137108
+   "bytes": 399756
   }
  ]
 }

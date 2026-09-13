@@ -7,7 +7,7 @@
    "face": false,
    "duration": 1.3333,
    "loop": false,
-   "bytes": 18588
+   "bytes": 22184
   },
   {
    "name": "PenguinDoll_Walk",
@@ -15,7 +15,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 11248
+   "bytes": 14600
   },
   {
    "name": "PenguinDoll_Walk_P1_Dance",
@@ -23,7 +23,7 @@
    "face": false,
    "duration": 3.1667,
    "loop": false,
-   "bytes": 26792
+   "bytes": 30156
   },
   {
    "name": "timeline",
@@ -31,7 +31,7 @@
    "face": true,
    "duration": 4.0333,
    "loop": false,
-   "bytes": 287316,
+   "bytes": 388052,
    "show": [
     "penguin_face1",
     "penguin_face2",
@@ -46,7 +46,7 @@
    "face": false,
    "duration": 4.0,
    "loop": true,
-   "bytes": 97456
+   "bytes": 399904
   },
   {
    "name": "Attack1",
@@ -54,7 +54,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 88244
+   "bytes": 395376
   },
   {
    "name": "Attack2",
@@ -62,7 +62,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 115048
+   "bytes": 440428
   },
   {
    "name": "Attack_P3",
@@ -70,7 +70,7 @@
    "face": false,
    "duration": 0.8333,
    "loop": false,
-   "bytes": 138640
+   "bytes": 485740
   },
   {
    "name": "Dazed",
@@ -78,7 +78,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": true,
-   "bytes": 77756
+   "bytes": 291772
   },
   {
    "name": "Die",
@@ -86,7 +86,7 @@
    "face": true,
    "duration": 2.0,
    "loop": false,
-   "bytes": 167020
+   "bytes": 540232
   },
   {
    "name": "Dodge",
@@ -94,7 +94,7 @@
    "face": false,
    "duration": 0.9333,
    "loop": false,
-   "bytes": 116616
+   "bytes": 455320
   },
   {
    "name": "HurtA1",
@@ -102,7 +102,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 92736
+   "bytes": 407180
   },
   {
    "name": "HurtA2",
@@ -110,7 +110,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 99096
+   "bytes": 417004
   },
   {
    "name": "HurtB",
@@ -118,7 +118,7 @@
    "face": false,
    "duration": 1.0333,
    "loop": false,
-   "bytes": 120448
+   "bytes": 490516
   },
   {
    "name": "Idle",
@@ -126,7 +126,7 @@
    "face": false,
    "duration": 4.0,
    "loop": true,
-   "bytes": 64764
+   "bytes": 332052
   },
   {
    "name": "Out01",
@@ -134,7 +134,7 @@
    "face": false,
    "duration": 1.6667,
    "loop": false,
-   "bytes": 137456
+   "bytes": 491048
   },
   {
    "name": "Ready",
@@ -142,7 +142,7 @@
    "face": true,
    "duration": 7.1667,
    "loop": false,
-   "bytes": 246060,
+   "bytes": 345060,
    "hide": [
     "penguin_face1",
     "penguin_face2",
@@ -158,7 +158,7 @@
    "face": true,
    "duration": 2.0,
    "loop": true,
-   "bytes": 72204,
+   "bytes": 161932,
    "hide": [
     "penguin_face1",
     "penguin_face2",
@@ -174,7 +174,7 @@
    "face": false,
    "duration": 1.2,
    "loop": false,
-   "bytes": 139840
+   "bytes": 509980
   },
   {
    "name": "Reload_P4",
@@ -182,7 +182,7 @@
    "face": false,
    "duration": 1.2,
    "loop": false,
-   "bytes": 158884
+   "bytes": 523700
   },
   {
    "name": "Run",
@@ -190,7 +190,7 @@
    "face": false,
    "duration": 0.8,
    "loop": true,
-   "bytes": 114360
+   "bytes": 459848
   },
   {
    "name": "Rush",
@@ -198,7 +198,7 @@
    "face": false,
    "duration": 0.6,
    "loop": true,
-   "bytes": 101536
+   "bytes": 434632
   },
   {
    "name": "RushStop",
@@ -206,7 +206,7 @@
    "face": false,
    "duration": 1.1,
    "loop": false,
-   "bytes": 112452
+   "bytes": 464140
   },
   {
    "name": "Skill_Main_PenguinCalling",
@@ -214,7 +214,7 @@
    "face": false,
    "duration": 2.4,
    "loop": false,
-   "bytes": 167300
+   "bytes": 467764
   },
   {
    "name": "Skill_Sup_Debut",
@@ -222,7 +222,7 @@
    "face": false,
    "duration": 0.5,
    "loop": false,
-   "bytes": 102436
+   "bytes": 422200
   },
   {
    "name": "Skill_Sup_PenguinStatueCalling",
@@ -230,7 +230,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 135420
+   "bytes": 513580
   },
   {
    "name": "Skill_Sup_Raffle",
@@ -238,7 +238,7 @@
    "face": false,
    "duration": 0.6667,
    "loop": false,
-   "bytes": 100392
+   "bytes": 429564
   },
   {
    "name": "Skill_Sup_ShootHeartArrow",
@@ -246,7 +246,7 @@
    "face": false,
    "duration": 1.0,
    "loop": false,
-   "bytes": 126312
+   "bytes": 493116
   },
   {
    "name": "Skill_Sup_Shot",
@@ -254,7 +254,7 @@
    "face": false,
    "duration": 0.7667,
    "loop": false,
-   "bytes": 128584
+   "bytes": 494664
   },
   {
    "name": "Ultra_NoTL",
@@ -262,7 +262,7 @@
    "face": false,
    "duration": 5.2,
    "loop": false,
-   "bytes": 262140
+   "bytes": 883420
   },
   {
    "name": "Ultra_TL",
@@ -270,7 +270,7 @@
    "face": false,
    "duration": 4.5,
    "loop": false,
-   "bytes": 204332
+   "bytes": 693856
   },
   {
    "name": "Victory",
@@ -278,7 +278,7 @@
    "face": true,
    "duration": 3.3333,
    "loop": false,
-   "bytes": 190432,
+   "bytes": 297096,
    "show": [
     "penguin_face1",
     "penguin_face2",
@@ -296,7 +296,7 @@
    "face": true,
    "duration": 2.3333,
    "loop": true,
-   "bytes": 87020,
+   "bytes": 193060,
    "hide": [
     "weapon1"
    ]
@@ -307,7 +307,7 @@
    "face": false,
    "duration": 1.0667,
    "loop": true,
-   "bytes": 88228
+   "bytes": 394964
   },
   {
    "name": "Walk_Backward",
@@ -315,7 +315,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 44432
+   "bytes": 301544
   },
   {
    "name": "Walk_Forward",
@@ -323,7 +323,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 44524
+   "bytes": 301640
   },
   {
    "name": "Walk_Left",
@@ -331,7 +331,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 44208
+   "bytes": 301060
   },
   {
    "name": "Walk_Right",
@@ -339,7 +339,7 @@
    "face": false,
    "duration": 1.0,
    "loop": true,
-   "bytes": 44204
+   "bytes": 301056
   }
  ]
 }
