@@ -1,0 +1,363 @@
+{
+ "id": "13901",
+ "clips": [
+  {
+   "name": "Attack",
+   "file": "Allie/Allie_anims/Attack.glb",
+   "face": false,
+   "duration": 5.6,
+   "loop": false,
+   "bytes": 882044
+  },
+  {
+   "name": "Attack_1",
+   "file": "Allie/Allie_anims/Attack_1.glb",
+   "face": false,
+   "duration": 2.4667,
+   "loop": false,
+   "bytes": 500764
+  },
+  {
+   "name": "Attack_1_P10",
+   "file": "Allie/Allie_anims/Attack_1_P10.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 496976
+  },
+  {
+   "name": "Attack_2",
+   "file": "Allie/Allie_anims/Attack_2.glb",
+   "face": false,
+   "duration": 1.3167,
+   "loop": false,
+   "bytes": 438720
+  },
+  {
+   "name": "Attack_2_P10",
+   "file": "Allie/Allie_anims/Attack_2_P10.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 513256
+  },
+  {
+   "name": "Attack_3",
+   "file": "Allie/Allie_anims/Attack_3.glb",
+   "face": false,
+   "duration": 2.55,
+   "loop": false,
+   "bytes": 459732
+  },
+  {
+   "name": "Attack_4",
+   "file": "Allie/Allie_anims/Attack_4.glb",
+   "face": false,
+   "duration": 2.65,
+   "loop": false,
+   "bytes": 521052
+  },
+  {
+   "name": "Attack_4_P10",
+   "file": "Allie/Allie_anims/Attack_4_P10.glb",
+   "face": false,
+   "duration": 2.9333,
+   "loop": false,
+   "bytes": 545960
+  },
+  {
+   "name": "Attack_5",
+   "file": "Allie/Allie_anims/Attack_5.glb",
+   "face": false,
+   "duration": 2.45,
+   "loop": false,
+   "bytes": 471340
+  },
+  {
+   "name": "Attack_P2",
+   "file": "Allie/Allie_anims/Attack_P2.glb",
+   "face": false,
+   "duration": 4.1667,
+   "loop": false,
+   "bytes": 23808
+  },
+  {
+   "name": "Attack_P2_1",
+   "file": "Allie/Allie_anims/Attack_P2_1.glb",
+   "face": false,
+   "duration": 0.3,
+   "loop": false,
+   "bytes": 13192
+  },
+  {
+   "name": "Attack_P2_2",
+   "file": "Allie/Allie_anims/Attack_P2_2.glb",
+   "face": false,
+   "duration": 0.2333,
+   "loop": false,
+   "bytes": 13276
+  },
+  {
+   "name": "Attack_P2_3",
+   "file": "Allie/Allie_anims/Attack_P2_3.glb",
+   "face": false,
+   "duration": 0.3,
+   "loop": false,
+   "bytes": 14816
+  },
+  {
+   "name": "Attack_P2_4",
+   "file": "Allie/Allie_anims/Attack_P2_4.glb",
+   "face": false,
+   "duration": 0.7667,
+   "loop": false,
+   "bytes": 14020
+  },
+  {
+   "name": "Attack_P2_5",
+   "file": "Allie/Allie_anims/Attack_P2_5.glb",
+   "face": false,
+   "duration": 0.8333,
+   "loop": false,
+   "bytes": 13596
+  },
+  {
+   "name": "Dazed",
+   "file": "Allie/Allie_anims/Dazed.glb",
+   "face": false,
+   "duration": 1.6667,
+   "loop": true,
+   "bytes": 324128
+  },
+  {
+   "name": "Die",
+   "file": "Allie/Allie_anims/Die.glb",
+   "face": false,
+   "duration": 3.3333,
+   "loop": false,
+   "bytes": 593984
+  },
+  {
+   "name": "Dodge",
+   "file": "Allie/Allie_anims/Dodge.glb",
+   "face": false,
+   "duration": 1.0,
+   "loop": false,
+   "bytes": 364148
+  },
+  {
+   "name": "HurtA",
+   "file": "Allie/Allie_anims/HurtA.glb",
+   "face": false,
+   "duration": 0.6667,
+   "loop": false,
+   "bytes": 364468
+  },
+  {
+   "name": "HurtB",
+   "file": "Allie/Allie_anims/HurtB.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": false,
+   "bytes": 375592
+  },
+  {
+   "name": "Idle",
+   "file": "Allie/Allie_anims/Idle.glb",
+   "face": false,
+   "duration": 4.0,
+   "loop": true,
+   "bytes": 323476
+  },
+  {
+   "name": "Out01",
+   "file": "Allie/Allie_anims/Out01.glb",
+   "face": false,
+   "duration": 1.8667,
+   "loop": false,
+   "bytes": 329772
+  },
+  {
+   "name": "Ready",
+   "file": "Allie/Allie_anims/Ready.glb",
+   "face": true,
+   "duration": 4.3333,
+   "loop": false,
+   "bytes": 583152
+  },
+  {
+   "name": "ReadyLoop",
+   "file": "Allie/Allie_anims/ReadyLoop.glb",
+   "face": true,
+   "duration": 2.6667,
+   "loop": true,
+   "bytes": 312080
+  },
+  {
+   "name": "Run",
+   "file": "Allie/Allie_anims/Run.glb",
+   "face": false,
+   "duration": 0.8,
+   "loop": true,
+   "bytes": 366000
+  },
+  {
+   "name": "Rush",
+   "file": "Allie/Allie_anims/Rush.glb",
+   "face": false,
+   "duration": 0.5333,
+   "loop": true,
+   "bytes": 354252
+  },
+  {
+   "name": "RushStop",
+   "file": "Allie/Allie_anims/RushStop.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 383408
+  },
+  {
+   "name": "Skill_Main_A",
+   "file": "Allie/Allie_anims/Skill_Main_A.glb",
+   "face": false,
+   "duration": 1.5,
+   "loop": false,
+   "bytes": 376500
+  },
+  {
+   "name": "Skill_Main_A2",
+   "file": "Allie/Allie_anims/Skill_Main_A2.glb",
+   "face": false,
+   "duration": 0.1,
+   "loop": false,
+   "bytes": 248304
+  },
+  {
+   "name": "Skill_Main_B",
+   "file": "Allie/Allie_anims/Skill_Main_B.glb",
+   "face": false,
+   "duration": 0.9333,
+   "loop": false,
+   "bytes": 354012
+  },
+  {
+   "name": "Skill_Main_C",
+   "file": "Allie/Allie_anims/Skill_Main_C.glb",
+   "face": false,
+   "duration": 0.7333,
+   "loop": false,
+   "bytes": 370672
+  },
+  {
+   "name": "Skill_Sup_A",
+   "file": "Allie/Allie_anims/Skill_Sup_A.glb",
+   "face": false,
+   "duration": 0.9667,
+   "loop": false,
+   "bytes": 401560
+  },
+  {
+   "name": "Skill_Sup_B",
+   "file": "Allie/Allie_anims/Skill_Sup_B.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 582760
+  },
+  {
+   "name": "Skill_Sup_C",
+   "file": "Allie/Allie_anims/Skill_Sup_C.glb",
+   "face": false,
+   "duration": 1.5667,
+   "loop": false,
+   "bytes": 556264
+  },
+  {
+   "name": "Skill_Sup_Perk23",
+   "file": "Allie/Allie_anims/Skill_Sup_Perk23.glb",
+   "face": false,
+   "duration": 2.4,
+   "loop": false,
+   "bytes": 593604
+  },
+  {
+   "name": "Timeline",
+   "file": "Allie/Allie_anims/Timeline.glb",
+   "face": true,
+   "duration": 3.6,
+   "loop": false,
+   "bytes": 476340
+  },
+  {
+   "name": "Ultra01_NoTL",
+   "file": "Allie/Allie_anims/Ultra01_NoTL.glb",
+   "face": false,
+   "duration": 2.7,
+   "loop": false,
+   "bytes": 470680
+  },
+  {
+   "name": "Ultra01_TL",
+   "file": "Allie/Allie_anims/Ultra01_TL.glb",
+   "face": false,
+   "duration": 1.7667,
+   "loop": false,
+   "bytes": 400760
+  },
+  {
+   "name": "Ultra02",
+   "file": "Allie/Allie_anims/Ultra02.glb",
+   "face": false,
+   "duration": 2.3,
+   "loop": false,
+   "bytes": 505444
+  },
+  {
+   "name": "Victory",
+   "file": "Allie/Allie_anims/Victory.glb",
+   "face": true,
+   "duration": 5.6833,
+   "loop": false,
+   "bytes": 579084,
+   "hide": [
+    "weapon"
+   ]
+  },
+  {
+   "name": "VictoryLoop",
+   "file": "Allie/Allie_anims/VictoryLoop.glb",
+   "face": true,
+   "duration": 2.5,
+   "loop": true,
+   "bytes": 295048,
+   "hide": [
+    "weapon"
+   ]
+  },
+  {
+   "name": "Walk",
+   "file": "Allie/Allie_anims/Walk.glb",
+   "face": false,
+   "duration": 1.0667,
+   "loop": true,
+   "bytes": 330004
+  },
+  {
+   "name": "t1",
+   "file": "Allie/Allie_anims/t1.glb",
+   "face": false,
+   "duration": 0.3333,
+   "loop": false,
+   "bytes": 322280
+  },
+  {
+   "name": "t2",
+   "file": "Allie/Allie_anims/t2.glb",
+   "face": false,
+   "duration": 1.9,
+   "loop": false,
+   "bytes": 450088
+  }
+ ]
+}

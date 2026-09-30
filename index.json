@@ -1,5 +1,10 @@
 [
  {
+  "id": "13901",
+  "file": "Allie/Allie.glb",
+  "label": "Allie"
+ },
+ {
   "id": "10301",
   "file": "Amber/Amber.glb",
   "label": "Amber"
@@ -83,6 +88,11 @@
   "id": "12601",
   "file": "Flora/Flora.glb",
   "label": "Flora"
+ },
+ {
+  "id": "12603",
+  "file": "Flora/Flora_My_Stage_My_Creation.glb",
+  "label": "Flora: My Stage, My Creation"
  },
  {
   "id": "12501",
